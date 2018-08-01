@@ -1,0 +1,5049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<array>
+		<array>
+			<string>2015-01-21 16:00</string>
+			<string>1298.43</string>
+			<string>1299.6</string>
+			<string>1303.11</string>
+			<string>1296.49</string>
+		</array>
+		<array>
+			<string>2015-01-21 17:00</string>
+			<string>1299.57</string>
+			<string>1299.93</string>
+			<string>1300.85</string>
+			<string>1297.8</string>
+		</array>
+		<array>
+			<string>2015-01-21 18:00</string>
+			<string>1299.93</string>
+			<string>1297.65</string>
+			<string>1301.45</string>
+			<string>1296.7</string>
+		</array>
+		<array>
+			<string>2015-01-21 19:00</string>
+			<string>1297.65</string>
+			<string>1297.87</string>
+			<string>1298.5</string>
+			<string>1296.0</string>
+		</array>
+		<array>
+			<string>2015-01-21 20:00</string>
+			<string>1297.87</string>
+			<string>1300.7</string>
+			<string>1301.19</string>
+			<string>1296.75</string>
+		</array>
+		<array>
+			<string>2015-01-21 21:00</string>
+			<string>1300.7</string>
+			<string>1301.7</string>
+			<string>1305.0</string>
+			<string>1299.53</string>
+		</array>
+		<array>
+			<string>2015-01-21 22:00</string>
+			<string>1301.7</string>
+			<string>1293.25</string>
+			<string>1304.92</string>
+			<string>1289.65</string>
+		</array>
+		<array>
+			<string>2015-01-21 23:00</string>
+			<string>1293.25</string>
+			<string>1289.6</string>
+			<string>1295.55</string>
+			<string>1284.65</string>
+		</array>
+		<array>
+			<string>2015-01-22 00:00</string>
+			<string>1289.6</string>
+			<string>1292.58</string>
+			<string>1293.06</string>
+			<string>1286.25</string>
+		</array>
+		<array>
+			<string>2015-01-22 01:00</string>
+			<string>1292.58</string>
+			<string>1292.35</string>
+			<string>1293.34</string>
+			<string>1290.05</string>
+		</array>
+		<array>
+			<string>2015-01-22 02:00</string>
+			<string>1292.35</string>
+			<string>1292.77</string>
+			<string>1294.02</string>
+			<string>1288.45</string>
+		</array>
+		<array>
+			<string>2015-01-22 03:00</string>
+			<string>1292.89</string>
+			<string>1292.57</string>
+			<string>1295.63</string>
+			<string>1291.3</string>
+		</array>
+		<array>
+			<string>2015-01-22 04:00</string>
+			<string>1292.57</string>
+			<string>1293.36</string>
+			<string>1294.86</string>
+			<string>1292.25</string>
+		</array>
+		<array>
+			<string>2015-01-22 05:00</string>
+			<string>1293.36</string>
+			<string>1292.92</string>
+			<string>1293.71</string>
+			<string>1292.65</string>
+		</array>
+		<array>
+			<string>2015-01-22 06:00</string>
+			<string>1292.96</string>
+			<string>1293.51</string>
+			<string>1293.51</string>
+			<string>1292.5</string>
+		</array>
+		<array>
+			<string>2015-01-22 07:00</string>
+			<string>1293.35</string>
+			<string>1291.8</string>
+			<string>1293.35</string>
+			<string>1290.9</string>
+		</array>
+		<array>
+			<string>2015-01-22 08:00</string>
+			<string>1291.69</string>
+			<string>1291.23</string>
+			<string>1291.81</string>
+			<string>1289.85</string>
+		</array>
+		<array>
+			<string>2015-01-22 09:00</string>
+			<string>1291.23</string>
+			<string>1291.85</string>
+			<string>1293.23</string>
+			<string>1288.8</string>
+		</array>
+		<array>
+			<string>2015-01-22 10:00</string>
+			<string>1292.01</string>
+			<string>1292.45</string>
+			<string>1293.01</string>
+			<string>1291.35</string>
+		</array>
+		<array>
+			<string>2015-01-22 11:00</string>
+			<string>1292.32</string>
+			<string>1292.66</string>
+			<string>1292.84</string>
+			<string>1291.45</string>
+		</array>
+		<array>
+			<string>2015-01-22 12:00</string>
+			<string>1292.61</string>
+			<string>1293.25</string>
+			<string>1293.52</string>
+			<string>1291.75</string>
+		</array>
+		<array>
+			<string>2015-01-22 13:00</string>
+			<string>1293.25</string>
+			<string>1291.45</string>
+			<string>1293.65</string>
+			<string>1290.4</string>
+		</array>
+		<array>
+			<string>2015-01-22 14:00</string>
+			<string>1291.51</string>
+			<string>1287.09</string>
+			<string>1291.88</string>
+			<string>1283.33</string>
+		</array>
+		<array>
+			<string>2015-01-22 15:00</string>
+			<string>1287.09</string>
+			<string>1286.08</string>
+			<string>1288.47</string>
+			<string>1285.0</string>
+		</array>
+		<array>
+			<string>2015-01-22 16:00</string>
+			<string>1286.08</string>
+			<string>1285.8</string>
+			<string>1286.96</string>
+			<string>1283.95</string>
+		</array>
+		<array>
+			<string>2015-01-22 17:00</string>
+			<string>1285.8</string>
+			<string>1286.45</string>
+			<string>1289.51</string>
+			<string>1285.6</string>
+		</array>
+		<array>
+			<string>2015-01-22 18:00</string>
+			<string>1286.45</string>
+			<string>1286.47</string>
+			<string>1287.8</string>
+			<string>1285.35</string>
+		</array>
+		<array>
+			<string>2015-01-22 19:00</string>
+			<string>1286.45</string>
+			<string>1287.23</string>
+			<string>1287.69</string>
+			<string>1284.85</string>
+		</array>
+		<array>
+			<string>2015-01-22 20:00</string>
+			<string>1287.23</string>
+			<string>1288.71</string>
+			<string>1289.4</string>
+			<string>1279.39</string>
+		</array>
+		<array>
+			<string>2015-01-22 21:00</string>
+			<string>1288.71</string>
+			<string>1294.86</string>
+			<string>1297.4</string>
+			<string>1286.7</string>
+		</array>
+		<array>
+			<string>2015-01-22 22:00</string>
+			<string>1294.86</string>
+			<string>1294.65</string>
+			<string>1303.82</string>
+			<string>1292.65</string>
+		</array>
+		<array>
+			<string>2015-01-22 23:00</string>
+			<string>1294.84</string>
+			<string>1299.3</string>
+			<string>1303.12</string>
+			<string>1294.55</string>
+		</array>
+		<array>
+			<string>2015-01-23 00:00</string>
+			<string>1299.3</string>
+			<string>1302.66</string>
+			<string>1307.15</string>
+			<string>1299.05</string>
+		</array>
+		<array>
+			<string>2015-01-23 01:00</string>
+			<string>1302.71</string>
+			<string>1300.65</string>
+			<string>1303.86</string>
+			<string>1299.4</string>
+		</array>
+		<array>
+			<string>2015-01-23 02:00</string>
+			<string>1300.65</string>
+			<string>1301.38</string>
+			<string>1303.33</string>
+			<string>1298.85</string>
+		</array>
+		<array>
+			<string>2015-01-23 03:00</string>
+			<string>1301.38</string>
+			<string>1303.68</string>
+			<string>1303.78</string>
+			<string>1300.55</string>
+		</array>
+		<array>
+			<string>2015-01-23 04:00</string>
+			<string>1303.55</string>
+			<string>1303.4</string>
+			<string>1305.9</string>
+			<string>1303.0</string>
+		</array>
+		<array>
+			<string>2015-01-23 05:00</string>
+			<string>1303.3</string>
+			<string>1301.94</string>
+			<string>1303.85</string>
+			<string>1301.1</string>
+		</array>
+		<array>
+			<string>2015-01-23 06:00</string>
+			<string>1301.94</string>
+			<string>1302.04</string>
+			<string>1302.3</string>
+			<string>1301.46</string>
+		</array>
+		<array>
+			<string>2015-01-23 07:00</string>
+			<string>1301.55</string>
+			<string>1300.87</string>
+			<string>1302.0</string>
+			<string>1300.35</string>
+		</array>
+		<array>
+			<string>2015-01-23 08:00</string>
+			<string>1300.87</string>
+			<string>1300.38</string>
+			<string>1301.76</string>
+			<string>1299.55</string>
+		</array>
+		<array>
+			<string>2015-01-23 09:00</string>
+			<string>1300.38</string>
+			<string>1300.39</string>
+			<string>1301.05</string>
+			<string>1298.15</string>
+		</array>
+		<array>
+			<string>2015-01-23 10:00</string>
+			<string>1300.39</string>
+			<string>1299.72</string>
+			<string>1300.63</string>
+			<string>1298.9</string>
+		</array>
+		<array>
+			<string>2015-01-23 11:00</string>
+			<string>1299.72</string>
+			<string>1297.6</string>
+			<string>1299.79</string>
+			<string>1297.4</string>
+		</array>
+		<array>
+			<string>2015-01-23 12:00</string>
+			<string>1297.6</string>
+			<string>1297.07</string>
+			<string>1298.2</string>
+			<string>1296.3</string>
+		</array>
+		<array>
+			<string>2015-01-23 13:00</string>
+			<string>1297.07</string>
+			<string>1295.13</string>
+			<string>1297.38</string>
+			<string>1293.45</string>
+		</array>
+		<array>
+			<string>2015-01-23 14:00</string>
+			<string>1295.13</string>
+			<string>1296.61</string>
+			<string>1297.29</string>
+			<string>1293.2</string>
+		</array>
+		<array>
+			<string>2015-01-23 15:00</string>
+			<string>1296.64</string>
+			<string>1293.8</string>
+			<string>1297.04</string>
+			<string>1292.53</string>
+		</array>
+		<array>
+			<string>2015-01-23 16:00</string>
+			<string>1293.8</string>
+			<string>1294.67</string>
+			<string>1296.61</string>
+			<string>1293.1</string>
+		</array>
+		<array>
+			<string>2015-01-23 17:00</string>
+			<string>1294.67</string>
+			<string>1294.76</string>
+			<string>1296.92</string>
+			<string>1293.65</string>
+		</array>
+		<array>
+			<string>2015-01-23 18:00</string>
+			<string>1294.76</string>
+			<string>1294.88</string>
+			<string>1295.38</string>
+			<string>1292.6</string>
+		</array>
+		<array>
+			<string>2015-01-23 19:00</string>
+			<string>1294.88</string>
+			<string>1296.27</string>
+			<string>1296.33</string>
+			<string>1293.65</string>
+		</array>
+		<array>
+			<string>2015-01-23 20:00</string>
+			<string>1296.27</string>
+			<string>1297.39</string>
+			<string>1299.59</string>
+			<string>1294.75</string>
+		</array>
+		<array>
+			<string>2015-01-23 21:00</string>
+			<string>1297.39</string>
+			<string>1297.83</string>
+			<string>1298.43</string>
+			<string>1295.25</string>
+		</array>
+		<array>
+			<string>2015-01-23 22:00</string>
+			<string>1297.83</string>
+			<string>1295.18</string>
+			<string>1298.02</string>
+			<string>1293.87</string>
+		</array>
+		<array>
+			<string>2015-01-23 23:00</string>
+			<string>1295.18</string>
+			<string>1290.5</string>
+			<string>1295.99</string>
+			<string>1284.15</string>
+		</array>
+		<array>
+			<string>2015-01-24 00:00</string>
+			<string>1290.61</string>
+			<string>1290.45</string>
+			<string>1292.88</string>
+			<string>1289.25</string>
+		</array>
+		<array>
+			<string>2015-01-24 01:00</string>
+			<string>1290.45</string>
+			<string>1289.45</string>
+			<string>1290.97</string>
+			<string>1288.5</string>
+		</array>
+		<array>
+			<string>2015-01-24 02:00</string>
+			<string>1289.45</string>
+			<string>1293.04</string>
+			<string>1294.03</string>
+			<string>1288.95</string>
+		</array>
+		<array>
+			<string>2015-01-24 03:00</string>
+			<string>1293.04</string>
+			<string>1290.93</string>
+			<string>1293.32</string>
+			<string>1290.25</string>
+		</array>
+		<array>
+			<string>2015-01-24 04:00</string>
+			<string>1290.92</string>
+			<string>1293.5</string>
+			<string>1295.21</string>
+			<string>1290.69</string>
+		</array>
+		<array>
+			<string>2015-01-24 05:00</string>
+			<string>1293.59</string>
+			<string>1294.02</string>
+			<string>1295.09</string>
+			<string>1293.32</string>
+		</array>
+		<array>
+			<string>2015-01-24 06:00</string>
+			<string>1294.04</string>
+			<string>1293.88</string>
+			<string>1294.78</string>
+			<string>1293.83</string>
+		</array>
+		<array>
+			<string>2015-01-26 07:00</string>
+			<string>1293.23</string>
+			<string>1296.98</string>
+			<string>1297.88</string>
+			<string>1290.05</string>
+		</array>
+		<array>
+			<string>2015-01-26 08:00</string>
+			<string>1296.85</string>
+			<string>1296.81</string>
+			<string>1299.0</string>
+			<string>1295.0</string>
+		</array>
+		<array>
+			<string>2015-01-26 09:00</string>
+			<string>1296.6</string>
+			<string>1296.33</string>
+			<string>1299.05</string>
+			<string>1295.05</string>
+		</array>
+		<array>
+			<string>2015-01-26 10:00</string>
+			<string>1296.0</string>
+			<string>1295.78</string>
+			<string>1296.46</string>
+			<string>1294.9</string>
+		</array>
+		<array>
+			<string>2015-01-26 11:00</string>
+			<string>1295.78</string>
+			<string>1294.55</string>
+			<string>1296.27</string>
+			<string>1292.96</string>
+		</array>
+		<array>
+			<string>2015-01-26 12:00</string>
+			<string>1294.55</string>
+			<string>1294.05</string>
+			<string>1294.97</string>
+			<string>1292.65</string>
+		</array>
+		<array>
+			<string>2015-01-26 13:00</string>
+			<string>1294.05</string>
+			<string>1292.22</string>
+			<string>1295.05</string>
+			<string>1292.0</string>
+		</array>
+		<array>
+			<string>2015-01-26 14:00</string>
+			<string>1292.22</string>
+			<string>1292.95</string>
+			<string>1293.2</string>
+			<string>1290.7</string>
+		</array>
+		<array>
+			<string>2015-01-26 15:00</string>
+			<string>1292.99</string>
+			<string>1288.85</string>
+			<string>1293.8</string>
+			<string>1286.75</string>
+		</array>
+		<array>
+			<string>2015-01-26 16:00</string>
+			<string>1288.9</string>
+			<string>1283.03</string>
+			<string>1289.33</string>
+			<string>1281.55</string>
+		</array>
+		<array>
+			<string>2015-01-26 17:00</string>
+			<string>1283.03</string>
+			<string>1283.16</string>
+			<string>1284.65</string>
+			<string>1280.1</string>
+		</array>
+		<array>
+			<string>2015-01-26 18:00</string>
+			<string>1283.16</string>
+			<string>1283.03</string>
+			<string>1285.71</string>
+			<string>1282.0</string>
+		</array>
+		<array>
+			<string>2015-01-26 19:00</string>
+			<string>1283.03</string>
+			<string>1277.25</string>
+			<string>1283.49</string>
+			<string>1277.1</string>
+		</array>
+		<array>
+			<string>2015-01-26 20:00</string>
+			<string>1277.25</string>
+			<string>1284.02</string>
+			<string>1284.44</string>
+			<string>1275.7</string>
+		</array>
+		<array>
+			<string>2015-01-26 21:00</string>
+			<string>1284.02</string>
+			<string>1285.87</string>
+			<string>1287.35</string>
+			<string>1281.2</string>
+		</array>
+		<array>
+			<string>2015-01-26 22:00</string>
+			<string>1285.87</string>
+			<string>1281.43</string>
+			<string>1286.91</string>
+			<string>1280.2</string>
+		</array>
+		<array>
+			<string>2015-01-26 23:00</string>
+			<string>1281.43</string>
+			<string>1279.28</string>
+			<string>1281.71</string>
+			<string>1275.95</string>
+		</array>
+		<array>
+			<string>2015-01-27 00:00</string>
+			<string>1279.15</string>
+			<string>1278.61</string>
+			<string>1280.05</string>
+			<string>1277.45</string>
+		</array>
+		<array>
+			<string>2015-01-27 01:00</string>
+			<string>1278.61</string>
+			<string>1280.75</string>
+			<string>1281.59</string>
+			<string>1278.6</string>
+		</array>
+		<array>
+			<string>2015-01-27 02:00</string>
+			<string>1280.75</string>
+			<string>1279.35</string>
+			<string>1280.95</string>
+			<string>1278.05</string>
+		</array>
+		<array>
+			<string>2015-01-27 03:00</string>
+			<string>1279.4</string>
+			<string>1281.07</string>
+			<string>1281.56</string>
+			<string>1279.05</string>
+		</array>
+		<array>
+			<string>2015-01-27 04:00</string>
+			<string>1281.07</string>
+			<string>1280.2</string>
+			<string>1281.25</string>
+			<string>1279.0</string>
+		</array>
+		<array>
+			<string>2015-01-27 05:00</string>
+			<string>1280.2</string>
+			<string>1281.1</string>
+			<string>1281.58</string>
+			<string>1279.65</string>
+		</array>
+		<array>
+			<string>2015-01-27 06:00</string>
+			<string>1281.09</string>
+			<string>1280.02</string>
+			<string>1281.55</string>
+			<string>1280.02</string>
+		</array>
+		<array>
+			<string>2015-01-27 07:00</string>
+			<string>1280.85</string>
+			<string>1279.79</string>
+			<string>1282.32</string>
+			<string>1279.05</string>
+		</array>
+		<array>
+			<string>2015-01-27 08:00</string>
+			<string>1279.79</string>
+			<string>1275.1</string>
+			<string>1280.25</string>
+			<string>1272.2</string>
+		</array>
+		<array>
+			<string>2015-01-27 09:00</string>
+			<string>1275.1</string>
+			<string>1276.2</string>
+			<string>1278.2</string>
+			<string>1274.75</string>
+		</array>
+		<array>
+			<string>2015-01-27 10:00</string>
+			<string>1276.21</string>
+			<string>1278.14</string>
+			<string>1278.72</string>
+			<string>1275.6</string>
+		</array>
+		<array>
+			<string>2015-01-27 11:00</string>
+			<string>1278.14</string>
+			<string>1277.61</string>
+			<string>1279.78</string>
+			<string>1277.25</string>
+		</array>
+		<array>
+			<string>2015-01-27 12:00</string>
+			<string>1277.64</string>
+			<string>1277.79</string>
+			<string>1278.11</string>
+			<string>1276.9</string>
+		</array>
+		<array>
+			<string>2015-01-27 13:00</string>
+			<string>1277.79</string>
+			<string>1278.35</string>
+			<string>1279.1</string>
+			<string>1276.85</string>
+		</array>
+		<array>
+			<string>2015-01-27 14:00</string>
+			<string>1278.35</string>
+			<string>1282.71</string>
+			<string>1283.03</string>
+			<string>1278.35</string>
+		</array>
+		<array>
+			<string>2015-01-27 15:00</string>
+			<string>1282.69</string>
+			<string>1279.64</string>
+			<string>1283.75</string>
+			<string>1279.5</string>
+		</array>
+		<array>
+			<string>2015-01-27 16:00</string>
+			<string>1279.64</string>
+			<string>1282.01</string>
+			<string>1282.01</string>
+			<string>1277.35</string>
+		</array>
+		<array>
+			<string>2015-01-27 17:00</string>
+			<string>1282.01</string>
+			<string>1282.57</string>
+			<string>1282.76</string>
+			<string>1280.13</string>
+		</array>
+		<array>
+			<string>2015-01-27 18:00</string>
+			<string>1282.57</string>
+			<string>1280.04</string>
+			<string>1283.05</string>
+			<string>1278.95</string>
+		</array>
+		<array>
+			<string>2015-01-27 19:00</string>
+			<string>1280.04</string>
+			<string>1280.35</string>
+			<string>1281.8</string>
+			<string>1279.8</string>
+		</array>
+		<array>
+			<string>2015-01-27 20:00</string>
+			<string>1280.35</string>
+			<string>1283.16</string>
+			<string>1283.38</string>
+			<string>1279.2</string>
+		</array>
+		<array>
+			<string>2015-01-27 21:00</string>
+			<string>1283.16</string>
+			<string>1286.86</string>
+			<string>1288.3</string>
+			<string>1279.8</string>
+		</array>
+		<array>
+			<string>2015-01-27 22:00</string>
+			<string>1286.86</string>
+			<string>1289.89</string>
+			<string>1290.95</string>
+			<string>1284.86</string>
+		</array>
+		<array>
+			<string>2015-01-27 23:00</string>
+			<string>1289.89</string>
+			<string>1294.42</string>
+			<string>1297.51</string>
+			<string>1287.55</string>
+		</array>
+		<array>
+			<string>2015-01-28 00:00</string>
+			<string>1294.42</string>
+			<string>1292.8</string>
+			<string>1295.52</string>
+			<string>1292.1</string>
+		</array>
+		<array>
+			<string>2015-01-28 01:00</string>
+			<string>1293.1</string>
+			<string>1290.15</string>
+			<string>1293.32</string>
+			<string>1289.45</string>
+		</array>
+		<array>
+			<string>2015-01-28 02:00</string>
+			<string>1290.15</string>
+			<string>1293.15</string>
+			<string>1293.77</string>
+			<string>1289.9</string>
+		</array>
+		<array>
+			<string>2015-01-28 03:00</string>
+			<string>1293.2</string>
+			<string>1293.92</string>
+			<string>1294.1</string>
+			<string>1292.45</string>
+		</array>
+		<array>
+			<string>2015-01-28 04:00</string>
+			<string>1293.94</string>
+			<string>1294.45</string>
+			<string>1296.15</string>
+			<string>1292.76</string>
+		</array>
+		<array>
+			<string>2015-01-28 05:00</string>
+			<string>1294.45</string>
+			<string>1292.08</string>
+			<string>1295.11</string>
+			<string>1291.75</string>
+		</array>
+		<array>
+			<string>2015-01-28 06:00</string>
+			<string>1292.03</string>
+			<string>1292.78</string>
+			<string>1292.78</string>
+			<string>1291.2</string>
+		</array>
+		<array>
+			<string>2015-01-28 07:00</string>
+			<string>1291.9</string>
+			<string>1293.35</string>
+			<string>1293.47</string>
+			<string>1291.69</string>
+		</array>
+		<array>
+			<string>2015-01-28 08:00</string>
+			<string>1293.3</string>
+			<string>1292.03</string>
+			<string>1293.71</string>
+			<string>1291.85</string>
+		</array>
+		<array>
+			<string>2015-01-28 09:00</string>
+			<string>1291.95</string>
+			<string>1289.93</string>
+			<string>1292.07</string>
+			<string>1289.56</string>
+		</array>
+		<array>
+			<string>2015-01-28 10:00</string>
+			<string>1289.94</string>
+			<string>1290.51</string>
+			<string>1291.78</string>
+			<string>1289.2</string>
+		</array>
+		<array>
+			<string>2015-01-28 11:00</string>
+			<string>1290.5</string>
+			<string>1289.36</string>
+			<string>1291.23</string>
+			<string>1288.95</string>
+		</array>
+		<array>
+			<string>2015-01-28 12:00</string>
+			<string>1289.36</string>
+			<string>1289.76</string>
+			<string>1290.08</string>
+			<string>1288.4</string>
+		</array>
+		<array>
+			<string>2015-01-28 13:00</string>
+			<string>1289.76</string>
+			<string>1291.5</string>
+			<string>1291.97</string>
+			<string>1289.35</string>
+		</array>
+		<array>
+			<string>2015-01-28 14:00</string>
+			<string>1291.5</string>
+			<string>1289.06</string>
+			<string>1292.14</string>
+			<string>1288.7</string>
+		</array>
+		<array>
+			<string>2015-01-28 15:00</string>
+			<string>1289.01</string>
+			<string>1287.91</string>
+			<string>1289.58</string>
+			<string>1285.9</string>
+		</array>
+		<array>
+			<string>2015-01-28 16:00</string>
+			<string>1287.91</string>
+			<string>1288.28</string>
+			<string>1289.5</string>
+			<string>1287.04</string>
+		</array>
+		<array>
+			<string>2015-01-28 17:00</string>
+			<string>1288.28</string>
+			<string>1287.87</string>
+			<string>1289.53</string>
+			<string>1286.9</string>
+		</array>
+		<array>
+			<string>2015-01-28 18:00</string>
+			<string>1287.87</string>
+			<string>1288.36</string>
+			<string>1288.92</string>
+			<string>1286.25</string>
+		</array>
+		<array>
+			<string>2015-01-28 19:00</string>
+			<string>1288.36</string>
+			<string>1289.68</string>
+			<string>1291.76</string>
+			<string>1288.25</string>
+		</array>
+		<array>
+			<string>2015-01-28 20:00</string>
+			<string>1289.68</string>
+			<string>1290.24</string>
+			<string>1292.52</string>
+			<string>1289.55</string>
+		</array>
+		<array>
+			<string>2015-01-28 21:00</string>
+			<string>1290.24</string>
+			<string>1286.58</string>
+			<string>1292.85</string>
+			<string>1284.95</string>
+		</array>
+		<array>
+			<string>2015-01-28 22:00</string>
+			<string>1286.58</string>
+			<string>1284.95</string>
+			<string>1287.71</string>
+			<string>1283.3</string>
+		</array>
+		<array>
+			<string>2015-01-28 23:00</string>
+			<string>1284.95</string>
+			<string>1288.0</string>
+			<string>1288.89</string>
+			<string>1284.15</string>
+		</array>
+		<array>
+			<string>2015-01-29 00:00</string>
+			<string>1288.26</string>
+			<string>1285.92</string>
+			<string>1288.29</string>
+			<string>1285.2</string>
+		</array>
+		<array>
+			<string>2015-01-29 01:00</string>
+			<string>1285.92</string>
+			<string>1287.41</string>
+			<string>1287.71</string>
+			<string>1285.35</string>
+		</array>
+		<array>
+			<string>2015-01-29 02:00</string>
+			<string>1287.41</string>
+			<string>1286.54</string>
+			<string>1289.32</string>
+			<string>1285.7</string>
+		</array>
+		<array>
+			<string>2015-01-29 03:00</string>
+			<string>1286.54</string>
+			<string>1285.1</string>
+			<string>1289.38</string>
+			<string>1279.55</string>
+		</array>
+		<array>
+			<string>2015-01-29 04:00</string>
+			<string>1285.1</string>
+			<string>1284.84</string>
+			<string>1286.68</string>
+			<string>1282.95</string>
+		</array>
+		<array>
+			<string>2015-01-29 05:00</string>
+			<string>1284.89</string>
+			<string>1284.21</string>
+			<string>1285.81</string>
+			<string>1284.2</string>
+		</array>
+		<array>
+			<string>2015-01-29 06:00</string>
+			<string>1284.21</string>
+			<string>1284.0</string>
+			<string>1284.33</string>
+			<string>1282.96</string>
+		</array>
+		<array>
+			<string>2015-01-29 07:00</string>
+			<string>1283.57</string>
+			<string>1284.85</string>
+			<string>1285.09</string>
+			<string>1282.8</string>
+		</array>
+		<array>
+			<string>2015-01-29 08:00</string>
+			<string>1284.85</string>
+			<string>1285.27</string>
+			<string>1285.76</string>
+			<string>1284.35</string>
+		</array>
+		<array>
+			<string>2015-01-29 09:00</string>
+			<string>1285.05</string>
+			<string>1279.18</string>
+			<string>1285.72</string>
+			<string>1278.4</string>
+		</array>
+		<array>
+			<string>2015-01-29 10:00</string>
+			<string>1279.18</string>
+			<string>1281.13</string>
+			<string>1281.35</string>
+			<string>1278.05</string>
+		</array>
+		<array>
+			<string>2015-01-29 11:00</string>
+			<string>1281.17</string>
+			<string>1281.17</string>
+			<string>1282.05</string>
+			<string>1280.6</string>
+		</array>
+		<array>
+			<string>2015-01-29 12:00</string>
+			<string>1281.17</string>
+			<string>1282.28</string>
+			<string>1285.01</string>
+			<string>1281.0</string>
+		</array>
+		<array>
+			<string>2015-01-29 13:00</string>
+			<string>1282.28</string>
+			<string>1282.62</string>
+			<string>1283.11</string>
+			<string>1279.7</string>
+		</array>
+		<array>
+			<string>2015-01-29 14:00</string>
+			<string>1282.62</string>
+			<string>1282.44</string>
+			<string>1283.46</string>
+			<string>1281.1</string>
+		</array>
+		<array>
+			<string>2015-01-29 15:00</string>
+			<string>1282.15</string>
+			<string>1281.41</string>
+			<string>1282.38</string>
+			<string>1277.42</string>
+		</array>
+		<array>
+			<string>2015-01-29 16:00</string>
+			<string>1281.4</string>
+			<string>1279.76</string>
+			<string>1281.4</string>
+			<string>1276.75</string>
+		</array>
+		<array>
+			<string>2015-01-29 17:00</string>
+			<string>1279.8</string>
+			<string>1275.59</string>
+			<string>1280.37</string>
+			<string>1271.95</string>
+		</array>
+		<array>
+			<string>2015-01-29 18:00</string>
+			<string>1275.54</string>
+			<string>1275.49</string>
+			<string>1277.19</string>
+			<string>1274.59</string>
+		</array>
+		<array>
+			<string>2015-01-29 19:00</string>
+			<string>1275.49</string>
+			<string>1268.8</string>
+			<string>1276.82</string>
+			<string>1264.56</string>
+		</array>
+		<array>
+			<string>2015-01-29 20:00</string>
+			<string>1268.8</string>
+			<string>1268.08</string>
+			<string>1271.28</string>
+			<string>1267.34</string>
+		</array>
+		<array>
+			<string>2015-01-29 21:00</string>
+			<string>1268.08</string>
+			<string>1271.66</string>
+			<string>1273.94</string>
+			<string>1266.2</string>
+		</array>
+		<array>
+			<string>2015-01-29 22:00</string>
+			<string>1271.66</string>
+			<string>1272.1</string>
+			<string>1272.64</string>
+			<string>1267.5</string>
+		</array>
+		<array>
+			<string>2015-01-29 23:00</string>
+			<string>1272.1</string>
+			<string>1264.3</string>
+			<string>1272.6</string>
+			<string>1262.3</string>
+		</array>
+		<array>
+			<string>2015-01-30 00:00</string>
+			<string>1264.22</string>
+			<string>1258.87</string>
+			<string>1265.51</string>
+			<string>1256.6</string>
+		</array>
+		<array>
+			<string>2015-01-30 01:00</string>
+			<string>1258.87</string>
+			<string>1256.93</string>
+			<string>1258.96</string>
+			<string>1252.0</string>
+		</array>
+		<array>
+			<string>2015-01-30 02:00</string>
+			<string>1256.93</string>
+			<string>1257.43</string>
+			<string>1258.04</string>
+			<string>1251.8</string>
+		</array>
+		<array>
+			<string>2015-01-30 03:00</string>
+			<string>1257.43</string>
+			<string>1256.19</string>
+			<string>1258.68</string>
+			<string>1255.4</string>
+		</array>
+		<array>
+			<string>2015-01-30 04:00</string>
+			<string>1256.19</string>
+			<string>1257.15</string>
+			<string>1258.46</string>
+			<string>1254.65</string>
+		</array>
+		<array>
+			<string>2015-01-30 05:00</string>
+			<string>1257.16</string>
+			<string>1256.86</string>
+			<string>1258.42</string>
+			<string>1256.07</string>
+		</array>
+		<array>
+			<string>2015-01-30 06:00</string>
+			<string>1256.86</string>
+			<string>1256.98</string>
+			<string>1258.14</string>
+			<string>1256.76</string>
+		</array>
+		<array>
+			<string>2015-01-30 07:00</string>
+			<string>1257.55</string>
+			<string>1260.67</string>
+			<string>1260.84</string>
+			<string>1257.45</string>
+		</array>
+		<array>
+			<string>2015-01-30 08:00</string>
+			<string>1260.67</string>
+			<string>1259.82</string>
+			<string>1261.86</string>
+			<string>1259.55</string>
+		</array>
+		<array>
+			<string>2015-01-30 09:00</string>
+			<string>1259.82</string>
+			<string>1260.09</string>
+			<string>1260.53</string>
+			<string>1256.95</string>
+		</array>
+		<array>
+			<string>2015-01-30 10:00</string>
+			<string>1260.19</string>
+			<string>1258.67</string>
+			<string>1261.15</string>
+			<string>1258.43</string>
+		</array>
+		<array>
+			<string>2015-01-30 11:00</string>
+			<string>1258.67</string>
+			<string>1260.38</string>
+			<string>1261.45</string>
+			<string>1258.65</string>
+		</array>
+		<array>
+			<string>2015-01-30 12:00</string>
+			<string>1260.38</string>
+			<string>1260.32</string>
+			<string>1261.52</string>
+			<string>1260.0</string>
+		</array>
+		<array>
+			<string>2015-01-30 13:00</string>
+			<string>1260.32</string>
+			<string>1260.7</string>
+			<string>1261.56</string>
+			<string>1260.0</string>
+		</array>
+		<array>
+			<string>2015-01-30 14:00</string>
+			<string>1260.7</string>
+			<string>1260.9</string>
+			<string>1261.25</string>
+			<string>1258.8</string>
+		</array>
+		<array>
+			<string>2015-01-30 15:00</string>
+			<string>1260.89</string>
+			<string>1262.2</string>
+			<string>1263.96</string>
+			<string>1260.33</string>
+		</array>
+		<array>
+			<string>2015-01-30 16:00</string>
+			<string>1262.1</string>
+			<string>1263.3</string>
+			<string>1263.53</string>
+			<string>1260.58</string>
+		</array>
+		<array>
+			<string>2015-01-30 17:00</string>
+			<string>1263.3</string>
+			<string>1264.35</string>
+			<string>1265.96</string>
+			<string>1263.0</string>
+		</array>
+		<array>
+			<string>2015-01-30 18:00</string>
+			<string>1264.35</string>
+			<string>1265.1</string>
+			<string>1265.38</string>
+			<string>1262.65</string>
+		</array>
+		<array>
+			<string>2015-01-30 19:00</string>
+			<string>1265.1</string>
+			<string>1262.7</string>
+			<string>1265.44</string>
+			<string>1261.65</string>
+		</array>
+		<array>
+			<string>2015-01-30 20:00</string>
+			<string>1262.7</string>
+			<string>1263.41</string>
+			<string>1264.16</string>
+			<string>1262.15</string>
+		</array>
+		<array>
+			<string>2015-01-30 21:00</string>
+			<string>1263.41</string>
+			<string>1263.25</string>
+			<string>1266.19</string>
+			<string>1258.6</string>
+		</array>
+		<array>
+			<string>2015-01-30 22:00</string>
+			<string>1263.25</string>
+			<string>1260.23</string>
+			<string>1264.63</string>
+			<string>1258.7</string>
+		</array>
+		<array>
+			<string>2015-01-30 23:00</string>
+			<string>1260.23</string>
+			<string>1273.35</string>
+			<string>1273.63</string>
+			<string>1259.8</string>
+		</array>
+		<array>
+			<string>2015-01-31 00:00</string>
+			<string>1273.35</string>
+			<string>1272.97</string>
+			<string>1277.6</string>
+			<string>1270.7</string>
+		</array>
+		<array>
+			<string>2015-01-31 01:00</string>
+			<string>1273.12</string>
+			<string>1275.2</string>
+			<string>1277.53</string>
+			<string>1272.75</string>
+		</array>
+		<array>
+			<string>2015-01-31 02:00</string>
+			<string>1275.2</string>
+			<string>1276.3</string>
+			<string>1278.88</string>
+			<string>1274.45</string>
+		</array>
+		<array>
+			<string>2015-01-31 03:00</string>
+			<string>1276.3</string>
+			<string>1281.93</string>
+			<string>1282.65</string>
+			<string>1276.3</string>
+		</array>
+		<array>
+			<string>2015-01-31 04:00</string>
+			<string>1281.93</string>
+			<string>1283.79</string>
+			<string>1283.87</string>
+			<string>1280.51</string>
+		</array>
+		<array>
+			<string>2015-01-31 05:00</string>
+			<string>1284.43</string>
+			<string>1283.13</string>
+			<string>1284.66</string>
+			<string>1282.95</string>
+		</array>
+		<array>
+			<string>2015-01-31 06:00</string>
+			<string>1283.1</string>
+			<string>1283.21</string>
+			<string>1283.58</string>
+			<string>1282.69</string>
+		</array>
+		<array>
+			<string>2015-02-02 07:00</string>
+			<string>1280.55</string>
+			<string>1280.5</string>
+			<string>1280.55</string>
+			<string>1280.5</string>
+		</array>
+		<array>
+			<string>2015-02-02 08:00</string>
+			<string>1280.55</string>
+			<string>1280.56</string>
+			<string>1283.21</string>
+			<string>1279.9</string>
+		</array>
+		<array>
+			<string>2015-02-02 09:00</string>
+			<string>1280.56</string>
+			<string>1279.65</string>
+			<string>1283.28</string>
+			<string>1279.45</string>
+		</array>
+		<array>
+			<string>2015-02-02 10:00</string>
+			<string>1279.65</string>
+			<string>1278.93</string>
+			<string>1280.84</string>
+			<string>1278.5</string>
+		</array>
+		<array>
+			<string>2015-02-02 11:00</string>
+			<string>1278.93</string>
+			<string>1279.64</string>
+			<string>1280.65</string>
+			<string>1278.45</string>
+		</array>
+		<array>
+			<string>2015-02-02 12:00</string>
+			<string>1279.64</string>
+			<string>1280.5</string>
+			<string>1280.57</string>
+			<string>1279.5</string>
+		</array>
+		<array>
+			<string>2015-02-02 13:00</string>
+			<string>1280.5</string>
+			<string>1280.09</string>
+			<string>1281.37</string>
+			<string>1279.8</string>
+		</array>
+		<array>
+			<string>2015-02-02 14:00</string>
+			<string>1280.09</string>
+			<string>1279.53</string>
+			<string>1280.82</string>
+			<string>1278.6</string>
+		</array>
+		<array>
+			<string>2015-02-02 15:00</string>
+			<string>1279.53</string>
+			<string>1280.14</string>
+			<string>1280.19</string>
+			<string>1278.4</string>
+		</array>
+		<array>
+			<string>2015-02-02 16:00</string>
+			<string>1280.14</string>
+			<string>1276.47</string>
+			<string>1280.32</string>
+			<string>1275.35</string>
+		</array>
+		<array>
+			<string>2015-02-02 17:00</string>
+			<string>1276.47</string>
+			<string>1274.84</string>
+			<string>1276.9</string>
+			<string>1273.55</string>
+		</array>
+		<array>
+			<string>2015-02-02 18:00</string>
+			<string>1274.84</string>
+			<string>1276.05</string>
+			<string>1276.45</string>
+			<string>1273.55</string>
+		</array>
+		<array>
+			<string>2015-02-02 19:00</string>
+			<string>1276.05</string>
+			<string>1275.88</string>
+			<string>1278.88</string>
+			<string>1274.65</string>
+		</array>
+		<array>
+			<string>2015-02-02 20:00</string>
+			<string>1275.88</string>
+			<string>1272.72</string>
+			<string>1277.15</string>
+			<string>1271.05</string>
+		</array>
+		<array>
+			<string>2015-02-02 21:00</string>
+			<string>1272.5</string>
+			<string>1271.25</string>
+			<string>1274.45</string>
+			<string>1270.7</string>
+		</array>
+		<array>
+			<string>2015-02-02 22:00</string>
+			<string>1271.25</string>
+			<string>1271.42</string>
+			<string>1272.92</string>
+			<string>1266.24</string>
+		</array>
+		<array>
+			<string>2015-02-02 23:00</string>
+			<string>1271.42</string>
+			<string>1272.57</string>
+			<string>1275.92</string>
+			<string>1270.24</string>
+		</array>
+		<array>
+			<string>2015-02-03 00:00</string>
+			<string>1272.57</string>
+			<string>1274.33</string>
+			<string>1274.48</string>
+			<string>1270.55</string>
+		</array>
+		<array>
+			<string>2015-02-03 01:00</string>
+			<string>1274.33</string>
+			<string>1277.67</string>
+			<string>1278.54</string>
+			<string>1274.05</string>
+		</array>
+		<array>
+			<string>2015-02-03 02:00</string>
+			<string>1277.68</string>
+			<string>1279.85</string>
+			<string>1282.19</string>
+			<string>1275.95</string>
+		</array>
+		<array>
+			<string>2015-02-03 03:00</string>
+			<string>1279.85</string>
+			<string>1280.14</string>
+			<string>1280.36</string>
+			<string>1278.24</string>
+		</array>
+		<array>
+			<string>2015-02-03 04:00</string>
+			<string>1280.13</string>
+			<string>1274.38</string>
+			<string>1281.09</string>
+			<string>1273.1</string>
+		</array>
+		<array>
+			<string>2015-02-03 05:00</string>
+			<string>1274.38</string>
+			<string>1274.02</string>
+			<string>1275.53</string>
+			<string>1273.7</string>
+		</array>
+		<array>
+			<string>2015-02-03 06:00</string>
+			<string>1274.03</string>
+			<string>1275.36</string>
+			<string>1275.36</string>
+			<string>1272.96</string>
+		</array>
+		<array>
+			<string>2015-02-03 07:00</string>
+			<string>1274.98</string>
+			<string>1274.49</string>
+			<string>1275.41</string>
+			<string>1274.22</string>
+		</array>
+		<array>
+			<string>2015-02-03 08:00</string>
+			<string>1274.53</string>
+			<string>1274.04</string>
+			<string>1274.83</string>
+			<string>1273.05</string>
+		</array>
+		<array>
+			<string>2015-02-03 09:00</string>
+			<string>1274.01</string>
+			<string>1275.1</string>
+			<string>1275.7</string>
+			<string>1271.9</string>
+		</array>
+		<array>
+			<string>2015-02-03 10:00</string>
+			<string>1275.1</string>
+			<string>1274.93</string>
+			<string>1275.34</string>
+			<string>1273.5</string>
+		</array>
+		<array>
+			<string>2015-02-03 11:00</string>
+			<string>1274.93</string>
+			<string>1273.47</string>
+			<string>1275.21</string>
+			<string>1273.3</string>
+		</array>
+		<array>
+			<string>2015-02-03 12:00</string>
+			<string>1273.49</string>
+			<string>1273.96</string>
+			<string>1274.86</string>
+			<string>1272.8</string>
+		</array>
+		<array>
+			<string>2015-02-03 13:00</string>
+			<string>1273.96</string>
+			<string>1275.82</string>
+			<string>1276.27</string>
+			<string>1273.4</string>
+		</array>
+		<array>
+			<string>2015-02-03 14:00</string>
+			<string>1275.8</string>
+			<string>1279.19</string>
+			<string>1280.83</string>
+			<string>1275.8</string>
+		</array>
+		<array>
+			<string>2015-02-03 15:00</string>
+			<string>1279.19</string>
+			<string>1282.97</string>
+			<string>1285.4</string>
+			<string>1278.75</string>
+		</array>
+		<array>
+			<string>2015-02-03 16:00</string>
+			<string>1282.97</string>
+			<string>1283.41</string>
+			<string>1284.83</string>
+			<string>1281.2</string>
+		</array>
+		<array>
+			<string>2015-02-03 17:00</string>
+			<string>1283.41</string>
+			<string>1280.85</string>
+			<string>1285.02</string>
+			<string>1280.15</string>
+		</array>
+		<array>
+			<string>2015-02-03 18:00</string>
+			<string>1280.85</string>
+			<string>1281.27</string>
+			<string>1283.09</string>
+			<string>1280.1</string>
+		</array>
+		<array>
+			<string>2015-02-03 19:00</string>
+			<string>1281.27</string>
+			<string>1280.28</string>
+			<string>1282.61</string>
+			<string>1279.0</string>
+		</array>
+		<array>
+			<string>2015-02-03 20:00</string>
+			<string>1280.28</string>
+			<string>1271.11</string>
+			<string>1280.59</string>
+			<string>1269.7</string>
+		</array>
+		<array>
+			<string>2015-02-03 21:00</string>
+			<string>1271.11</string>
+			<string>1265.15</string>
+			<string>1272.77</string>
+			<string>1263.3</string>
+		</array>
+		<array>
+			<string>2015-02-03 22:00</string>
+			<string>1265.15</string>
+			<string>1263.89</string>
+			<string>1269.54</string>
+			<string>1261.75</string>
+		</array>
+		<array>
+			<string>2015-02-03 23:00</string>
+			<string>1263.89</string>
+			<string>1258.51</string>
+			<string>1265.6</string>
+			<string>1257.1</string>
+		</array>
+		<array>
+			<string>2015-02-04 00:00</string>
+			<string>1258.51</string>
+			<string>1261.72</string>
+			<string>1262.35</string>
+			<string>1255.3</string>
+		</array>
+		<array>
+			<string>2015-02-04 01:00</string>
+			<string>1261.72</string>
+			<string>1259.1</string>
+			<string>1261.8</string>
+			<string>1257.5</string>
+		</array>
+		<array>
+			<string>2015-02-04 02:00</string>
+			<string>1259.1</string>
+			<string>1264.53</string>
+			<string>1267.67</string>
+			<string>1258.1</string>
+		</array>
+		<array>
+			<string>2015-02-04 03:00</string>
+			<string>1264.53</string>
+			<string>1263.08</string>
+			<string>1265.81</string>
+			<string>1261.75</string>
+		</array>
+		<array>
+			<string>2015-02-04 04:00</string>
+			<string>1263.08</string>
+			<string>1260.55</string>
+			<string>1263.61</string>
+			<string>1259.25</string>
+		</array>
+		<array>
+			<string>2015-02-04 05:00</string>
+			<string>1260.6</string>
+			<string>1260.26</string>
+			<string>1261.49</string>
+			<string>1259.45</string>
+		</array>
+		<array>
+			<string>2015-02-04 06:00</string>
+			<string>1260.26</string>
+			<string>1260.12</string>
+			<string>1260.8</string>
+			<string>1259.85</string>
+		</array>
+		<array>
+			<string>2015-02-04 07:00</string>
+			<string>1260.95</string>
+			<string>1261.36</string>
+			<string>1262.97</string>
+			<string>1260.33</string>
+		</array>
+		<array>
+			<string>2015-02-04 08:00</string>
+			<string>1261.42</string>
+			<string>1258.72</string>
+			<string>1262.35</string>
+			<string>1258.3</string>
+		</array>
+		<array>
+			<string>2015-02-04 09:00</string>
+			<string>1258.72</string>
+			<string>1260.97</string>
+			<string>1261.63</string>
+			<string>1256.55</string>
+		</array>
+		<array>
+			<string>2015-02-04 10:00</string>
+			<string>1260.97</string>
+			<string>1261.84</string>
+			<string>1262.75</string>
+			<string>1260.35</string>
+		</array>
+		<array>
+			<string>2015-02-04 11:00</string>
+			<string>1261.84</string>
+			<string>1262.6</string>
+			<string>1263.2</string>
+			<string>1260.6</string>
+		</array>
+		<array>
+			<string>2015-02-04 12:00</string>
+			<string>1262.63</string>
+			<string>1263.83</string>
+			<string>1264.35</string>
+			<string>1262.1</string>
+		</array>
+		<array>
+			<string>2015-02-04 13:00</string>
+			<string>1263.83</string>
+			<string>1262.76</string>
+			<string>1264.61</string>
+			<string>1262.31</string>
+		</array>
+		<array>
+			<string>2015-02-04 14:00</string>
+			<string>1262.72</string>
+			<string>1264.91</string>
+			<string>1265.64</string>
+			<string>1262.5</string>
+		</array>
+		<array>
+			<string>2015-02-04 15:00</string>
+			<string>1264.91</string>
+			<string>1264.55</string>
+			<string>1266.96</string>
+			<string>1262.8</string>
+		</array>
+		<array>
+			<string>2015-02-04 16:00</string>
+			<string>1264.55</string>
+			<string>1265.02</string>
+			<string>1265.57</string>
+			<string>1263.1</string>
+		</array>
+		<array>
+			<string>2015-02-04 17:00</string>
+			<string>1265.02</string>
+			<string>1264.7</string>
+			<string>1266.51</string>
+			<string>1262.8</string>
+		</array>
+		<array>
+			<string>2015-02-04 18:00</string>
+			<string>1264.7</string>
+			<string>1268.6</string>
+			<string>1271.26</string>
+			<string>1263.25</string>
+		</array>
+		<array>
+			<string>2015-02-04 19:00</string>
+			<string>1268.6</string>
+			<string>1266.35</string>
+			<string>1269.36</string>
+			<string>1265.55</string>
+		</array>
+		<array>
+			<string>2015-02-04 20:00</string>
+			<string>1266.35</string>
+			<string>1269.13</string>
+			<string>1269.41</string>
+			<string>1264.85</string>
+		</array>
+		<array>
+			<string>2015-02-04 21:00</string>
+			<string>1269.13</string>
+			<string>1266.8</string>
+			<string>1270.2</string>
+			<string>1266.1</string>
+		</array>
+		<array>
+			<string>2015-02-04 22:00</string>
+			<string>1266.8</string>
+			<string>1268.7</string>
+			<string>1268.73</string>
+			<string>1265.35</string>
+		</array>
+		<array>
+			<string>2015-02-04 23:00</string>
+			<string>1268.7</string>
+			<string>1261.85</string>
+			<string>1272.05</string>
+			<string>1259.35</string>
+		</array>
+		<array>
+			<string>2015-02-05 00:00</string>
+			<string>1261.7</string>
+			<string>1263.65</string>
+			<string>1266.36</string>
+			<string>1260.9</string>
+		</array>
+		<array>
+			<string>2015-02-05 01:00</string>
+			<string>1263.6</string>
+			<string>1262.85</string>
+			<string>1265.0</string>
+			<string>1261.7</string>
+		</array>
+		<array>
+			<string>2015-02-05 02:00</string>
+			<string>1262.85</string>
+			<string>1264.47</string>
+			<string>1264.66</string>
+			<string>1262.15</string>
+		</array>
+		<array>
+			<string>2015-02-05 03:00</string>
+			<string>1264.45</string>
+			<string>1265.56</string>
+			<string>1265.94</string>
+			<string>1263.88</string>
+		</array>
+		<array>
+			<string>2015-02-05 04:00</string>
+			<string>1265.58</string>
+			<string>1265.65</string>
+			<string>1267.32</string>
+			<string>1263.45</string>
+		</array>
+		<array>
+			<string>2015-02-05 05:00</string>
+			<string>1265.65</string>
+			<string>1269.01</string>
+			<string>1271.83</string>
+			<string>1263.88</string>
+		</array>
+		<array>
+			<string>2015-02-05 06:00</string>
+			<string>1269.01</string>
+			<string>1269.03</string>
+			<string>1269.71</string>
+			<string>1267.8</string>
+		</array>
+		<array>
+			<string>2015-02-05 07:00</string>
+			<string>1269.65</string>
+			<string>1272.36</string>
+			<string>1273.91</string>
+			<string>1269.3</string>
+		</array>
+		<array>
+			<string>2015-02-05 08:00</string>
+			<string>1272.4</string>
+			<string>1273.15</string>
+			<string>1273.22</string>
+			<string>1271.55</string>
+		</array>
+		<array>
+			<string>2015-02-05 09:00</string>
+			<string>1273.15</string>
+			<string>1271.9</string>
+			<string>1273.67</string>
+			<string>1270.45</string>
+		</array>
+		<array>
+			<string>2015-02-05 10:00</string>
+			<string>1271.9</string>
+			<string>1272.15</string>
+			<string>1273.52</string>
+			<string>1271.35</string>
+		</array>
+		<array>
+			<string>2015-02-05 11:00</string>
+			<string>1272.18</string>
+			<string>1271.54</string>
+			<string>1273.06</string>
+			<string>1270.75</string>
+		</array>
+		<array>
+			<string>2015-02-05 12:00</string>
+			<string>1271.3</string>
+			<string>1271.56</string>
+			<string>1272.0</string>
+			<string>1271.05</string>
+		</array>
+		<array>
+			<string>2015-02-05 13:00</string>
+			<string>1271.56</string>
+			<string>1271.84</string>
+			<string>1273.23</string>
+			<string>1270.65</string>
+		</array>
+		<array>
+			<string>2015-02-05 14:00</string>
+			<string>1271.84</string>
+			<string>1269.96</string>
+			<string>1273.27</string>
+			<string>1269.5</string>
+		</array>
+		<array>
+			<string>2015-02-05 15:00</string>
+			<string>1269.75</string>
+			<string>1268.64</string>
+			<string>1271.03</string>
+			<string>1267.96</string>
+		</array>
+		<array>
+			<string>2015-02-05 16:00</string>
+			<string>1268.57</string>
+			<string>1266.43</string>
+			<string>1268.78</string>
+			<string>1265.15</string>
+		</array>
+		<array>
+			<string>2015-02-05 17:00</string>
+			<string>1266.43</string>
+			<string>1266.25</string>
+			<string>1266.84</string>
+			<string>1264.5</string>
+		</array>
+		<array>
+			<string>2015-02-05 18:00</string>
+			<string>1266.25</string>
+			<string>1260.5</string>
+			<string>1267.73</string>
+			<string>1260.16</string>
+		</array>
+		<array>
+			<string>2015-02-05 19:00</string>
+			<string>1260.5</string>
+			<string>1260.84</string>
+			<string>1261.91</string>
+			<string>1258.6</string>
+		</array>
+		<array>
+			<string>2015-02-05 20:00</string>
+			<string>1260.84</string>
+			<string>1261.55</string>
+			<string>1263.72</string>
+			<string>1260.2</string>
+		</array>
+		<array>
+			<string>2015-02-05 21:00</string>
+			<string>1261.55</string>
+			<string>1262.21</string>
+			<string>1265.4</string>
+			<string>1261.0</string>
+		</array>
+		<array>
+			<string>2015-02-05 22:00</string>
+			<string>1262.21</string>
+			<string>1259.3</string>
+			<string>1263.07</string>
+			<string>1257.55</string>
+		</array>
+		<array>
+			<string>2015-02-05 23:00</string>
+			<string>1259.3</string>
+			<string>1260.8</string>
+			<string>1263.02</string>
+			<string>1258.25</string>
+		</array>
+		<array>
+			<string>2015-02-06 00:00</string>
+			<string>1260.8</string>
+			<string>1262.0</string>
+			<string>1263.53</string>
+			<string>1256.3</string>
+		</array>
+		<array>
+			<string>2015-02-06 01:00</string>
+			<string>1262.0</string>
+			<string>1262.45</string>
+			<string>1263.2</string>
+			<string>1261.1</string>
+		</array>
+		<array>
+			<string>2015-02-06 02:00</string>
+			<string>1262.45</string>
+			<string>1264.42</string>
+			<string>1264.54</string>
+			<string>1261.65</string>
+		</array>
+		<array>
+			<string>2015-02-06 03:00</string>
+			<string>1264.42</string>
+			<string>1265.22</string>
+			<string>1266.47</string>
+			<string>1263.35</string>
+		</array>
+		<array>
+			<string>2015-02-06 04:00</string>
+			<string>1265.22</string>
+			<string>1267.88</string>
+			<string>1268.05</string>
+			<string>1264.35</string>
+		</array>
+		<array>
+			<string>2015-02-06 05:00</string>
+			<string>1267.88</string>
+			<string>1264.4</string>
+			<string>1268.04</string>
+			<string>1264.3</string>
+		</array>
+		<array>
+			<string>2015-02-06 06:00</string>
+			<string>1264.25</string>
+			<string>1265.58</string>
+			<string>1265.58</string>
+			<string>1263.65</string>
+		</array>
+		<array>
+			<string>2015-02-06 07:00</string>
+			<string>1265.85</string>
+			<string>1265.27</string>
+			<string>1267.7</string>
+			<string>1264.9</string>
+		</array>
+		<array>
+			<string>2015-02-06 08:00</string>
+			<string>1265.27</string>
+			<string>1264.55</string>
+			<string>1265.68</string>
+			<string>1263.9</string>
+		</array>
+		<array>
+			<string>2015-02-06 09:00</string>
+			<string>1264.5</string>
+			<string>1265.53</string>
+			<string>1265.76</string>
+			<string>1262.1</string>
+		</array>
+		<array>
+			<string>2015-02-06 10:00</string>
+			<string>1265.53</string>
+			<string>1266.0</string>
+			<string>1266.5</string>
+			<string>1265.1</string>
+		</array>
+		<array>
+			<string>2015-02-06 11:00</string>
+			<string>1266.0</string>
+			<string>1266.3</string>
+			<string>1266.47</string>
+			<string>1265.6</string>
+		</array>
+		<array>
+			<string>2015-02-06 12:00</string>
+			<string>1266.25</string>
+			<string>1265.77</string>
+			<string>1266.95</string>
+			<string>1265.6</string>
+		</array>
+		<array>
+			<string>2015-02-06 13:00</string>
+			<string>1265.77</string>
+			<string>1268.2</string>
+			<string>1268.7</string>
+			<string>1265.65</string>
+		</array>
+		<array>
+			<string>2015-02-06 14:00</string>
+			<string>1268.2</string>
+			<string>1267.75</string>
+			<string>1268.55</string>
+			<string>1267.05</string>
+		</array>
+		<array>
+			<string>2015-02-06 15:00</string>
+			<string>1267.82</string>
+			<string>1267.97</string>
+			<string>1268.35</string>
+			<string>1266.35</string>
+		</array>
+		<array>
+			<string>2015-02-06 16:00</string>
+			<string>1267.97</string>
+			<string>1267.1</string>
+			<string>1268.06</string>
+			<string>1264.85</string>
+		</array>
+		<array>
+			<string>2015-02-06 17:00</string>
+			<string>1267.1</string>
+			<string>1266.69</string>
+			<string>1267.75</string>
+			<string>1265.83</string>
+		</array>
+		<array>
+			<string>2015-02-06 18:00</string>
+			<string>1266.69</string>
+			<string>1264.8</string>
+			<string>1266.8</string>
+			<string>1263.65</string>
+		</array>
+		<array>
+			<string>2015-02-06 19:00</string>
+			<string>1264.8</string>
+			<string>1264.35</string>
+			<string>1265.26</string>
+			<string>1263.74</string>
+		</array>
+		<array>
+			<string>2015-02-06 20:00</string>
+			<string>1264.35</string>
+			<string>1264.89</string>
+			<string>1265.38</string>
+			<string>1262.39</string>
+		</array>
+		<array>
+			<string>2015-02-06 21:00</string>
+			<string>1264.84</string>
+			<string>1246.67</string>
+			<string>1266.55</string>
+			<string>1245.23</string>
+		</array>
+		<array>
+			<string>2015-02-06 22:00</string>
+			<string>1246.67</string>
+			<string>1242.36</string>
+			<string>1246.69</string>
+			<string>1237.4</string>
+		</array>
+		<array>
+			<string>2015-02-06 23:00</string>
+			<string>1242.36</string>
+			<string>1233.64</string>
+			<string>1242.4</string>
+			<string>1233.25</string>
+		</array>
+		<array>
+			<string>2015-02-07 00:00</string>
+			<string>1233.78</string>
+			<string>1231.85</string>
+			<string>1235.06</string>
+			<string>1228.15</string>
+		</array>
+		<array>
+			<string>2015-02-07 01:00</string>
+			<string>1231.85</string>
+			<string>1232.0</string>
+			<string>1233.17</string>
+			<string>1230.75</string>
+		</array>
+		<array>
+			<string>2015-02-07 02:00</string>
+			<string>1232.05</string>
+			<string>1234.73</string>
+			<string>1236.19</string>
+			<string>1231.7</string>
+		</array>
+		<array>
+			<string>2015-02-07 03:00</string>
+			<string>1234.73</string>
+			<string>1234.36</string>
+			<string>1235.69</string>
+			<string>1233.2</string>
+		</array>
+		<array>
+			<string>2015-02-07 04:00</string>
+			<string>1234.41</string>
+			<string>1235.04</string>
+			<string>1237.59</string>
+			<string>1234.4</string>
+		</array>
+		<array>
+			<string>2015-02-07 05:00</string>
+			<string>1235.52</string>
+			<string>1233.67</string>
+			<string>1235.54</string>
+			<string>1231.94</string>
+		</array>
+		<array>
+			<string>2015-02-07 06:00</string>
+			<string>1233.63</string>
+			<string>1233.54</string>
+			<string>1233.79</string>
+			<string>1233.44</string>
+		</array>
+		<array>
+			<string>2015-02-09 07:00</string>
+			<string>1235.85</string>
+			<string>1237.87</string>
+			<string>1238.75</string>
+			<string>1234.27</string>
+		</array>
+		<array>
+			<string>2015-02-09 08:00</string>
+			<string>1237.85</string>
+			<string>1237.38</string>
+			<string>1237.96</string>
+			<string>1234.9</string>
+		</array>
+		<array>
+			<string>2015-02-09 09:00</string>
+			<string>1237.38</string>
+			<string>1238.67</string>
+			<string>1239.15</string>
+			<string>1235.8</string>
+		</array>
+		<array>
+			<string>2015-02-09 10:00</string>
+			<string>1238.67</string>
+			<string>1238.25</string>
+			<string>1239.1</string>
+			<string>1237.75</string>
+		</array>
+		<array>
+			<string>2015-02-09 11:00</string>
+			<string>1238.28</string>
+			<string>1237.31</string>
+			<string>1238.42</string>
+			<string>1236.05</string>
+		</array>
+		<array>
+			<string>2015-02-09 12:00</string>
+			<string>1237.31</string>
+			<string>1237.28</string>
+			<string>1237.46</string>
+			<string>1236.45</string>
+		</array>
+		<array>
+			<string>2015-02-09 13:00</string>
+			<string>1237.28</string>
+			<string>1238.29</string>
+			<string>1238.38</string>
+			<string>1236.1</string>
+		</array>
+		<array>
+			<string>2015-02-09 14:00</string>
+			<string>1238.29</string>
+			<string>1239.75</string>
+			<string>1239.92</string>
+			<string>1237.6</string>
+		</array>
+		<array>
+			<string>2015-02-09 15:00</string>
+			<string>1239.75</string>
+			<string>1239.9</string>
+			<string>1240.63</string>
+			<string>1238.45</string>
+		</array>
+		<array>
+			<string>2015-02-09 16:00</string>
+			<string>1239.9</string>
+			<string>1239.77</string>
+			<string>1242.57</string>
+			<string>1238.88</string>
+		</array>
+		<array>
+			<string>2015-02-09 17:00</string>
+			<string>1239.77</string>
+			<string>1242.0</string>
+			<string>1242.44</string>
+			<string>1239.5</string>
+		</array>
+		<array>
+			<string>2015-02-09 18:00</string>
+			<string>1242.0</string>
+			<string>1241.14</string>
+			<string>1243.57</string>
+			<string>1240.65</string>
+		</array>
+		<array>
+			<string>2015-02-09 19:00</string>
+			<string>1241.16</string>
+			<string>1241.15</string>
+			<string>1242.2</string>
+			<string>1240.35</string>
+		</array>
+		<array>
+			<string>2015-02-09 20:00</string>
+			<string>1241.15</string>
+			<string>1238.89</string>
+			<string>1241.21</string>
+			<string>1237.35</string>
+		</array>
+		<array>
+			<string>2015-02-09 21:00</string>
+			<string>1238.89</string>
+			<string>1236.26</string>
+			<string>1240.69</string>
+			<string>1235.9</string>
+		</array>
+		<array>
+			<string>2015-02-09 22:00</string>
+			<string>1236.26</string>
+			<string>1238.96</string>
+			<string>1239.07</string>
+			<string>1236.0</string>
+		</array>
+		<array>
+			<string>2015-02-09 23:00</string>
+			<string>1238.96</string>
+			<string>1240.97</string>
+			<string>1242.94</string>
+			<string>1238.1</string>
+		</array>
+		<array>
+			<string>2015-02-10 00:00</string>
+			<string>1240.97</string>
+			<string>1239.5</string>
+			<string>1241.6</string>
+			<string>1238.9</string>
+		</array>
+		<array>
+			<string>2015-02-10 01:00</string>
+			<string>1239.5</string>
+			<string>1239.85</string>
+			<string>1240.41</string>
+			<string>1238.13</string>
+		</array>
+		<array>
+			<string>2015-02-10 02:00</string>
+			<string>1239.85</string>
+			<string>1241.87</string>
+			<string>1241.97</string>
+			<string>1239.65</string>
+		</array>
+		<array>
+			<string>2015-02-10 03:00</string>
+			<string>1241.95</string>
+			<string>1241.17</string>
+			<string>1242.09</string>
+			<string>1240.95</string>
+		</array>
+		<array>
+			<string>2015-02-10 04:00</string>
+			<string>1241.05</string>
+			<string>1240.7</string>
+			<string>1242.27</string>
+			<string>1240.35</string>
+		</array>
+		<array>
+			<string>2015-02-10 05:00</string>
+			<string>1240.45</string>
+			<string>1238.87</string>
+			<string>1240.79</string>
+			<string>1238.65</string>
+		</array>
+		<array>
+			<string>2015-02-10 06:00</string>
+			<string>1238.87</string>
+			<string>1237.8</string>
+			<string>1239.15</string>
+			<string>1237.8</string>
+		</array>
+		<array>
+			<string>2015-02-10 07:00</string>
+			<string>1237.75</string>
+			<string>1238.58</string>
+			<string>1239.22</string>
+			<string>1237.75</string>
+		</array>
+		<array>
+			<string>2015-02-10 08:00</string>
+			<string>1238.59</string>
+			<string>1239.66</string>
+			<string>1239.76</string>
+			<string>1238.3</string>
+		</array>
+		<array>
+			<string>2015-02-10 09:00</string>
+			<string>1239.66</string>
+			<string>1241.42</string>
+			<string>1242.01</string>
+			<string>1239.5</string>
+		</array>
+		<array>
+			<string>2015-02-10 10:00</string>
+			<string>1241.42</string>
+			<string>1243.33</string>
+			<string>1245.03</string>
+			<string>1240.55</string>
+		</array>
+		<array>
+			<string>2015-02-10 11:00</string>
+			<string>1243.33</string>
+			<string>1242.8</string>
+			<string>1244.05</string>
+			<string>1242.5</string>
+		</array>
+		<array>
+			<string>2015-02-10 12:00</string>
+			<string>1242.75</string>
+			<string>1242.4</string>
+			<string>1243.06</string>
+			<string>1242.05</string>
+		</array>
+		<array>
+			<string>2015-02-10 13:00</string>
+			<string>1242.4</string>
+			<string>1244.5</string>
+			<string>1244.9</string>
+			<string>1242.15</string>
+		</array>
+		<array>
+			<string>2015-02-10 14:00</string>
+			<string>1244.5</string>
+			<string>1244.1</string>
+			<string>1245.82</string>
+			<string>1243.95</string>
+		</array>
+		<array>
+			<string>2015-02-10 15:00</string>
+			<string>1244.1</string>
+			<string>1242.76</string>
+			<string>1244.84</string>
+			<string>1242.35</string>
+		</array>
+		<array>
+			<string>2015-02-10 16:00</string>
+			<string>1242.76</string>
+			<string>1240.66</string>
+			<string>1243.93</string>
+			<string>1240.08</string>
+		</array>
+		<array>
+			<string>2015-02-10 17:00</string>
+			<string>1240.66</string>
+			<string>1239.43</string>
+			<string>1241.17</string>
+			<string>1238.55</string>
+		</array>
+		<array>
+			<string>2015-02-10 18:00</string>
+			<string>1239.43</string>
+			<string>1237.93</string>
+			<string>1239.46</string>
+			<string>1236.6</string>
+		</array>
+		<array>
+			<string>2015-02-10 19:00</string>
+			<string>1237.93</string>
+			<string>1236.7</string>
+			<string>1238.7</string>
+			<string>1234.95</string>
+		</array>
+		<array>
+			<string>2015-02-10 20:00</string>
+			<string>1236.65</string>
+			<string>1238.75</string>
+			<string>1239.77</string>
+			<string>1233.4</string>
+		</array>
+		<array>
+			<string>2015-02-10 21:00</string>
+			<string>1238.75</string>
+			<string>1237.41</string>
+			<string>1239.91</string>
+			<string>1235.4</string>
+		</array>
+		<array>
+			<string>2015-02-10 22:00</string>
+			<string>1237.41</string>
+			<string>1235.32</string>
+			<string>1237.75</string>
+			<string>1232.1</string>
+		</array>
+		<array>
+			<string>2015-02-10 23:00</string>
+			<string>1235.32</string>
+			<string>1237.6</string>
+			<string>1239.65</string>
+			<string>1232.55</string>
+		</array>
+		<array>
+			<string>2015-02-11 00:00</string>
+			<string>1237.6</string>
+			<string>1236.17</string>
+			<string>1237.88</string>
+			<string>1235.1</string>
+		</array>
+		<array>
+			<string>2015-02-11 01:00</string>
+			<string>1236.17</string>
+			<string>1233.52</string>
+			<string>1237.11</string>
+			<string>1232.5</string>
+		</array>
+		<array>
+			<string>2015-02-11 02:00</string>
+			<string>1233.45</string>
+			<string>1232.17</string>
+			<string>1234.75</string>
+			<string>1230.8</string>
+		</array>
+		<array>
+			<string>2015-02-11 03:00</string>
+			<string>1232.17</string>
+			<string>1234.34</string>
+			<string>1235.22</string>
+			<string>1231.6</string>
+		</array>
+		<array>
+			<string>2015-02-11 04:00</string>
+			<string>1234.32</string>
+			<string>1233.6</string>
+			<string>1234.7</string>
+			<string>1233.25</string>
+		</array>
+		<array>
+			<string>2015-02-11 05:00</string>
+			<string>1233.65</string>
+			<string>1233.27</string>
+			<string>1234.7</string>
+			<string>1233.14</string>
+		</array>
+		<array>
+			<string>2015-02-11 06:00</string>
+			<string>1233.33</string>
+			<string>1233.71</string>
+			<string>1233.74</string>
+			<string>1232.9</string>
+		</array>
+		<array>
+			<string>2015-02-11 07:00</string>
+			<string>1233.7</string>
+			<string>1233.44</string>
+			<string>1234.49</string>
+			<string>1233.3</string>
+		</array>
+		<array>
+			<string>2015-02-11 08:00</string>
+			<string>1233.26</string>
+			<string>1234.76</string>
+			<string>1236.17</string>
+			<string>1233.2</string>
+		</array>
+		<array>
+			<string>2015-02-11 09:00</string>
+			<string>1234.76</string>
+			<string>1237.35</string>
+			<string>1237.86</string>
+			<string>1234.6</string>
+		</array>
+		<array>
+			<string>2015-02-11 10:00</string>
+			<string>1237.35</string>
+			<string>1237.59</string>
+			<string>1238.15</string>
+			<string>1237.0</string>
+		</array>
+		<array>
+			<string>2015-02-11 11:00</string>
+			<string>1237.73</string>
+			<string>1236.46</string>
+			<string>1237.79</string>
+			<string>1236.35</string>
+		</array>
+		<array>
+			<string>2015-02-11 12:00</string>
+			<string>1236.44</string>
+			<string>1237.5</string>
+			<string>1237.52</string>
+			<string>1235.85</string>
+		</array>
+		<array>
+			<string>2015-02-11 13:00</string>
+			<string>1237.48</string>
+			<string>1238.41</string>
+			<string>1238.52</string>
+			<string>1236.95</string>
+		</array>
+		<array>
+			<string>2015-02-11 14:00</string>
+			<string>1238.41</string>
+			<string>1237.44</string>
+			<string>1238.68</string>
+			<string>1237.04</string>
+		</array>
+		<array>
+			<string>2015-02-11 15:00</string>
+			<string>1237.44</string>
+			<string>1237.95</string>
+			<string>1238.59</string>
+			<string>1236.55</string>
+		</array>
+		<array>
+			<string>2015-02-11 16:00</string>
+			<string>1237.92</string>
+			<string>1237.5</string>
+			<string>1238.01</string>
+			<string>1235.2</string>
+		</array>
+		<array>
+			<string>2015-02-11 17:00</string>
+			<string>1237.47</string>
+			<string>1237.26</string>
+			<string>1238.1</string>
+			<string>1236.6</string>
+		</array>
+		<array>
+			<string>2015-02-11 18:00</string>
+			<string>1237.18</string>
+			<string>1233.9</string>
+			<string>1237.79</string>
+			<string>1232.9</string>
+		</array>
+		<array>
+			<string>2015-02-11 19:00</string>
+			<string>1233.9</string>
+			<string>1235.23</string>
+			<string>1235.3</string>
+			<string>1232.97</string>
+		</array>
+		<array>
+			<string>2015-02-11 20:00</string>
+			<string>1235.23</string>
+			<string>1236.42</string>
+			<string>1238.02</string>
+			<string>1234.7</string>
+		</array>
+		<array>
+			<string>2015-02-11 21:00</string>
+			<string>1236.42</string>
+			<string>1234.18</string>
+			<string>1237.05</string>
+			<string>1232.0</string>
+		</array>
+		<array>
+			<string>2015-02-11 22:00</string>
+			<string>1234.18</string>
+			<string>1225.3</string>
+			<string>1235.26</string>
+			<string>1223.35</string>
+		</array>
+		<array>
+			<string>2015-02-11 23:00</string>
+			<string>1225.3</string>
+			<string>1222.81</string>
+			<string>1225.4</string>
+			<string>1221.05</string>
+		</array>
+		<array>
+			<string>2015-02-12 00:00</string>
+			<string>1222.81</string>
+			<string>1223.9</string>
+			<string>1225.22</string>
+			<string>1220.94</string>
+		</array>
+		<array>
+			<string>2015-02-12 01:00</string>
+			<string>1223.9</string>
+			<string>1223.13</string>
+			<string>1224.55</string>
+			<string>1221.7</string>
+		</array>
+		<array>
+			<string>2015-02-12 02:00</string>
+			<string>1223.13</string>
+			<string>1220.09</string>
+			<string>1223.24</string>
+			<string>1218.35</string>
+		</array>
+		<array>
+			<string>2015-02-12 03:00</string>
+			<string>1220.09</string>
+			<string>1220.45</string>
+			<string>1221.53</string>
+			<string>1219.15</string>
+		</array>
+		<array>
+			<string>2015-02-12 04:00</string>
+			<string>1220.45</string>
+			<string>1219.2</string>
+			<string>1221.85</string>
+			<string>1219.05</string>
+		</array>
+		<array>
+			<string>2015-02-12 05:00</string>
+			<string>1219.15</string>
+			<string>1218.54</string>
+			<string>1220.57</string>
+			<string>1216.63</string>
+		</array>
+		<array>
+			<string>2015-02-12 06:00</string>
+			<string>1218.54</string>
+			<string>1218.48</string>
+			<string>1219.9</string>
+			<string>1216.7</string>
+		</array>
+		<array>
+			<string>2015-02-12 07:00</string>
+			<string>1218.6</string>
+			<string>1220.44</string>
+			<string>1220.61</string>
+			<string>1217.99</string>
+		</array>
+		<array>
+			<string>2015-02-12 08:00</string>
+			<string>1220.44</string>
+			<string>1221.02</string>
+			<string>1221.69</string>
+			<string>1220.1</string>
+		</array>
+		<array>
+			<string>2015-02-12 09:00</string>
+			<string>1221.02</string>
+			<string>1222.15</string>
+			<string>1223.95</string>
+			<string>1220.75</string>
+		</array>
+		<array>
+			<string>2015-02-12 10:00</string>
+			<string>1222.17</string>
+			<string>1221.16</string>
+			<string>1223.14</string>
+			<string>1220.55</string>
+		</array>
+		<array>
+			<string>2015-02-12 11:00</string>
+			<string>1221.16</string>
+			<string>1220.18</string>
+			<string>1221.45</string>
+			<string>1219.04</string>
+		</array>
+		<array>
+			<string>2015-02-12 12:00</string>
+			<string>1220.16</string>
+			<string>1221.04</string>
+			<string>1221.65</string>
+			<string>1219.7</string>
+		</array>
+		<array>
+			<string>2015-02-12 13:00</string>
+			<string>1221.04</string>
+			<string>1222.13</string>
+			<string>1222.13</string>
+			<string>1220.3</string>
+		</array>
+		<array>
+			<string>2015-02-12 14:00</string>
+			<string>1222.13</string>
+			<string>1222.22</string>
+			<string>1223.17</string>
+			<string>1221.45</string>
+		</array>
+		<array>
+			<string>2015-02-12 15:00</string>
+			<string>1222.22</string>
+			<string>1222.86</string>
+			<string>1223.58</string>
+			<string>1221.75</string>
+		</array>
+		<array>
+			<string>2015-02-12 16:00</string>
+			<string>1222.85</string>
+			<string>1226.78</string>
+			<string>1232.73</string>
+			<string>1221.55</string>
+		</array>
+		<array>
+			<string>2015-02-12 17:00</string>
+			<string>1226.78</string>
+			<string>1224.92</string>
+			<string>1227.96</string>
+			<string>1222.4</string>
+		</array>
+		<array>
+			<string>2015-02-12 18:00</string>
+			<string>1224.92</string>
+			<string>1223.14</string>
+			<string>1226.29</string>
+			<string>1222.7</string>
+		</array>
+		<array>
+			<string>2015-02-12 19:00</string>
+			<string>1223.16</string>
+			<string>1223.58</string>
+			<string>1224.95</string>
+			<string>1222.75</string>
+		</array>
+		<array>
+			<string>2015-02-12 20:00</string>
+			<string>1223.58</string>
+			<string>1223.54</string>
+			<string>1224.66</string>
+			<string>1221.3</string>
+		</array>
+		<array>
+			<string>2015-02-12 21:00</string>
+			<string>1223.54</string>
+			<string>1225.12</string>
+			<string>1227.76</string>
+			<string>1222.6</string>
+		</array>
+		<array>
+			<string>2015-02-12 22:00</string>
+			<string>1225.1</string>
+			<string>1223.85</string>
+			<string>1227.15</string>
+			<string>1223.4</string>
+		</array>
+		<array>
+			<string>2015-02-12 23:00</string>
+			<string>1223.85</string>
+			<string>1222.66</string>
+			<string>1223.91</string>
+			<string>1219.85</string>
+		</array>
+		<array>
+			<string>2015-02-13 00:00</string>
+			<string>1222.66</string>
+			<string>1224.97</string>
+			<string>1226.1</string>
+			<string>1222.35</string>
+		</array>
+		<array>
+			<string>2015-02-13 01:00</string>
+			<string>1224.97</string>
+			<string>1219.8</string>
+			<string>1225.02</string>
+			<string>1219.65</string>
+		</array>
+		<array>
+			<string>2015-02-13 02:00</string>
+			<string>1219.8</string>
+			<string>1220.95</string>
+			<string>1221.84</string>
+			<string>1219.45</string>
+		</array>
+		<array>
+			<string>2015-02-13 03:00</string>
+			<string>1220.95</string>
+			<string>1222.1</string>
+			<string>1222.63</string>
+			<string>1220.6</string>
+		</array>
+		<array>
+			<string>2015-02-13 04:00</string>
+			<string>1222.1</string>
+			<string>1221.8</string>
+			<string>1223.53</string>
+			<string>1221.75</string>
+		</array>
+		<array>
+			<string>2015-02-13 05:00</string>
+			<string>1221.8</string>
+			<string>1221.63</string>
+			<string>1222.42</string>
+			<string>1221.16</string>
+		</array>
+		<array>
+			<string>2015-02-13 06:00</string>
+			<string>1221.66</string>
+			<string>1221.46</string>
+			<string>1222.45</string>
+			<string>1221.46</string>
+		</array>
+		<array>
+			<string>2015-02-13 07:00</string>
+			<string>1222.91</string>
+			<string>1223.53</string>
+			<string>1224.16</string>
+			<string>1222.87</string>
+		</array>
+		<array>
+			<string>2015-02-13 08:00</string>
+			<string>1223.53</string>
+			<string>1223.64</string>
+			<string>1224.86</string>
+			<string>1223.15</string>
+		</array>
+		<array>
+			<string>2015-02-13 09:00</string>
+			<string>1223.64</string>
+			<string>1225.06</string>
+			<string>1225.7</string>
+			<string>1222.6</string>
+		</array>
+		<array>
+			<string>2015-02-13 10:00</string>
+			<string>1225.06</string>
+			<string>1226.17</string>
+			<string>1226.43</string>
+			<string>1224.67</string>
+		</array>
+		<array>
+			<string>2015-02-13 11:00</string>
+			<string>1226.17</string>
+			<string>1228.27</string>
+			<string>1228.88</string>
+			<string>1226.0</string>
+		</array>
+		<array>
+			<string>2015-02-13 12:00</string>
+			<string>1228.27</string>
+			<string>1227.84</string>
+			<string>1228.63</string>
+			<string>1226.8</string>
+		</array>
+		<array>
+			<string>2015-02-13 13:00</string>
+			<string>1227.84</string>
+			<string>1229.65</string>
+			<string>1230.54</string>
+			<string>1227.33</string>
+		</array>
+		<array>
+			<string>2015-02-13 14:00</string>
+			<string>1229.65</string>
+			<string>1230.4</string>
+			<string>1231.09</string>
+			<string>1228.61</string>
+		</array>
+		<array>
+			<string>2015-02-13 15:00</string>
+			<string>1230.4</string>
+			<string>1228.92</string>
+			<string>1230.96</string>
+			<string>1228.75</string>
+		</array>
+		<array>
+			<string>2015-02-13 16:00</string>
+			<string>1228.94</string>
+			<string>1226.23</string>
+			<string>1229.22</string>
+			<string>1226.0</string>
+		</array>
+		<array>
+			<string>2015-02-13 17:00</string>
+			<string>1226.26</string>
+			<string>1226.88</string>
+			<string>1227.95</string>
+			<string>1225.9</string>
+		</array>
+		<array>
+			<string>2015-02-13 18:00</string>
+			<string>1226.92</string>
+			<string>1224.85</string>
+			<string>1227.26</string>
+			<string>1223.85</string>
+		</array>
+		<array>
+			<string>2015-02-13 19:00</string>
+			<string>1224.85</string>
+			<string>1223.88</string>
+			<string>1225.63</string>
+			<string>1223.05</string>
+		</array>
+		<array>
+			<string>2015-02-13 20:00</string>
+			<string>1223.84</string>
+			<string>1225.0</string>
+			<string>1225.34</string>
+			<string>1223.4</string>
+		</array>
+		<array>
+			<string>2015-02-13 21:00</string>
+			<string>1225.0</string>
+			<string>1228.17</string>
+			<string>1230.88</string>
+			<string>1225.0</string>
+		</array>
+		<array>
+			<string>2015-02-13 22:00</string>
+			<string>1228.15</string>
+			<string>1230.6</string>
+			<string>1231.66</string>
+			<string>1226.85</string>
+		</array>
+		<array>
+			<string>2015-02-13 23:00</string>
+			<string>1230.6</string>
+			<string>1232.14</string>
+			<string>1234.8</string>
+			<string>1230.45</string>
+		</array>
+		<array>
+			<string>2015-02-14 00:00</string>
+			<string>1232.14</string>
+			<string>1229.06</string>
+			<string>1232.99</string>
+			<string>1228.4</string>
+		</array>
+		<array>
+			<string>2015-02-14 01:00</string>
+			<string>1229.06</string>
+			<string>1229.84</string>
+			<string>1231.29</string>
+			<string>1228.3</string>
+		</array>
+		<array>
+			<string>2015-02-14 02:00</string>
+			<string>1229.84</string>
+			<string>1228.6</string>
+			<string>1229.86</string>
+			<string>1226.55</string>
+		</array>
+		<array>
+			<string>2015-02-14 03:00</string>
+			<string>1228.6</string>
+			<string>1228.84</string>
+			<string>1229.75</string>
+			<string>1227.85</string>
+		</array>
+		<array>
+			<string>2015-02-14 04:00</string>
+			<string>1228.84</string>
+			<string>1228.39</string>
+			<string>1229.11</string>
+			<string>1227.82</string>
+		</array>
+		<array>
+			<string>2015-02-14 05:00</string>
+			<string>1228.39</string>
+			<string>1229.42</string>
+			<string>1229.82</string>
+			<string>1228.39</string>
+		</array>
+		<array>
+			<string>2015-02-14 06:00</string>
+			<string>1229.43</string>
+			<string>1229.28</string>
+			<string>1229.52</string>
+			<string>1229.01</string>
+		</array>
+		<array>
+			<string>2015-02-16 07:00</string>
+			<string>1227.73</string>
+			<string>1228.96</string>
+			<string>1229.42</string>
+			<string>1227.73</string>
+		</array>
+		<array>
+			<string>2015-02-16 08:00</string>
+			<string>1228.96</string>
+			<string>1230.42</string>
+			<string>1231.52</string>
+			<string>1228.55</string>
+		</array>
+		<array>
+			<string>2015-02-16 09:00</string>
+			<string>1230.42</string>
+			<string>1230.96</string>
+			<string>1231.08</string>
+			<string>1229.0</string>
+		</array>
+		<array>
+			<string>2015-02-16 10:00</string>
+			<string>1230.96</string>
+			<string>1233.29</string>
+			<string>1233.44</string>
+			<string>1230.8</string>
+		</array>
+		<array>
+			<string>2015-02-16 11:00</string>
+			<string>1233.31</string>
+			<string>1232.88</string>
+			<string>1233.7</string>
+			<string>1232.6</string>
+		</array>
+		<array>
+			<string>2015-02-16 12:00</string>
+			<string>1232.88</string>
+			<string>1232.31</string>
+			<string>1233.03</string>
+			<string>1231.8</string>
+		</array>
+		<array>
+			<string>2015-02-16 13:00</string>
+			<string>1232.31</string>
+			<string>1231.91</string>
+			<string>1232.58</string>
+			<string>1231.45</string>
+		</array>
+		<array>
+			<string>2015-02-16 14:00</string>
+			<string>1231.88</string>
+			<string>1233.31</string>
+			<string>1234.14</string>
+			<string>1231.45</string>
+		</array>
+		<array>
+			<string>2015-02-16 15:00</string>
+			<string>1233.31</string>
+			<string>1234.84</string>
+			<string>1236.42</string>
+			<string>1232.75</string>
+		</array>
+		<array>
+			<string>2015-02-16 16:00</string>
+			<string>1234.84</string>
+			<string>1234.34</string>
+			<string>1235.36</string>
+			<string>1233.0</string>
+		</array>
+		<array>
+			<string>2015-02-16 17:00</string>
+			<string>1234.36</string>
+			<string>1234.02</string>
+			<string>1235.21</string>
+			<string>1233.1</string>
+		</array>
+		<array>
+			<string>2015-02-16 18:00</string>
+			<string>1233.75</string>
+			<string>1233.45</string>
+			<string>1234.81</string>
+			<string>1232.9</string>
+		</array>
+		<array>
+			<string>2015-02-16 19:00</string>
+			<string>1233.45</string>
+			<string>1234.0</string>
+			<string>1234.46</string>
+			<string>1233.3</string>
+		</array>
+		<array>
+			<string>2015-02-16 20:00</string>
+			<string>1234.14</string>
+			<string>1232.4</string>
+			<string>1234.67</string>
+			<string>1231.4</string>
+		</array>
+		<array>
+			<string>2015-02-16 21:00</string>
+			<string>1232.4</string>
+			<string>1232.71</string>
+			<string>1233.85</string>
+			<string>1231.65</string>
+		</array>
+		<array>
+			<string>2015-02-16 22:00</string>
+			<string>1232.71</string>
+			<string>1230.79</string>
+			<string>1233.01</string>
+			<string>1229.7</string>
+		</array>
+		<array>
+			<string>2015-02-16 23:00</string>
+			<string>1230.79</string>
+			<string>1231.27</string>
+			<string>1233.89</string>
+			<string>1229.65</string>
+		</array>
+		<array>
+			<string>2015-02-17 00:00</string>
+			<string>1231.27</string>
+			<string>1232.46</string>
+			<string>1232.55</string>
+			<string>1230.05</string>
+		</array>
+		<array>
+			<string>2015-02-17 01:00</string>
+			<string>1232.46</string>
+			<string>1230.74</string>
+			<string>1232.54</string>
+			<string>1230.3</string>
+		</array>
+		<array>
+			<string>2015-02-17 02:00</string>
+			<string>1230.74</string>
+			<string>1230.57</string>
+			<string>1230.91</string>
+			<string>1230.51</string>
+		</array>
+		<array>
+			<string>2015-02-17 03:00</string>
+			<string>1230.52</string>
+			<string>1230.5</string>
+			<string>1230.57</string>
+			<string>1230.47</string>
+		</array>
+		<array>
+			<string>2015-02-17 04:00</string>
+			<string>1230.49</string>
+			<string>1230.49</string>
+			<string>1230.55</string>
+			<string>1230.48</string>
+		</array>
+		<array>
+			<string>2015-02-17 05:00</string>
+			<string>1230.48</string>
+			<string>1230.55</string>
+			<string>1230.55</string>
+			<string>1230.48</string>
+		</array>
+		<array>
+			<string>2015-02-17 06:00</string>
+			<string>1230.57</string>
+			<string>1230.57</string>
+			<string>1231.12</string>
+			<string>1230.52</string>
+		</array>
+		<array>
+			<string>2015-02-17 07:00</string>
+			<string>1230.65</string>
+			<string>1231.79</string>
+			<string>1233.16</string>
+			<string>1230.44</string>
+		</array>
+		<array>
+			<string>2015-02-17 08:00</string>
+			<string>1231.79</string>
+			<string>1233.73</string>
+			<string>1233.83</string>
+			<string>1230.8</string>
+		</array>
+		<array>
+			<string>2015-02-17 09:00</string>
+			<string>1233.86</string>
+			<string>1231.88</string>
+			<string>1233.86</string>
+			<string>1231.25</string>
+		</array>
+		<array>
+			<string>2015-02-17 10:00</string>
+			<string>1231.88</string>
+			<string>1228.86</string>
+			<string>1232.25</string>
+			<string>1228.7</string>
+		</array>
+		<array>
+			<string>2015-02-17 11:00</string>
+			<string>1228.86</string>
+			<string>1227.78</string>
+			<string>1229.45</string>
+			<string>1227.35</string>
+		</array>
+		<array>
+			<string>2015-02-17 12:00</string>
+			<string>1227.78</string>
+			<string>1227.88</string>
+			<string>1228.36</string>
+			<string>1226.05</string>
+		</array>
+		<array>
+			<string>2015-02-17 13:00</string>
+			<string>1227.7</string>
+			<string>1228.23</string>
+			<string>1229.67</string>
+			<string>1227.47</string>
+		</array>
+		<array>
+			<string>2015-02-17 14:00</string>
+			<string>1228.23</string>
+			<string>1225.31</string>
+			<string>1228.63</string>
+			<string>1224.4</string>
+		</array>
+		<array>
+			<string>2015-02-17 15:00</string>
+			<string>1225.31</string>
+			<string>1223.62</string>
+			<string>1225.46</string>
+			<string>1223.26</string>
+		</array>
+		<array>
+			<string>2015-02-17 16:00</string>
+			<string>1223.52</string>
+			<string>1222.1</string>
+			<string>1224.55</string>
+			<string>1220.7</string>
+		</array>
+		<array>
+			<string>2015-02-17 17:00</string>
+			<string>1222.1</string>
+			<string>1222.04</string>
+			<string>1223.78</string>
+			<string>1220.54</string>
+		</array>
+		<array>
+			<string>2015-02-17 18:00</string>
+			<string>1222.04</string>
+			<string>1221.82</string>
+			<string>1224.52</string>
+			<string>1220.25</string>
+		</array>
+		<array>
+			<string>2015-02-17 19:00</string>
+			<string>1221.82</string>
+			<string>1222.94</string>
+			<string>1223.68</string>
+			<string>1220.4</string>
+		</array>
+		<array>
+			<string>2015-02-17 20:00</string>
+			<string>1222.94</string>
+			<string>1219.88</string>
+			<string>1222.94</string>
+			<string>1219.2</string>
+		</array>
+		<array>
+			<string>2015-02-17 21:00</string>
+			<string>1219.88</string>
+			<string>1223.78</string>
+			<string>1224.27</string>
+			<string>1218.9</string>
+		</array>
+		<array>
+			<string>2015-02-17 22:00</string>
+			<string>1223.78</string>
+			<string>1210.32</string>
+			<string>1225.03</string>
+			<string>1209.8</string>
+		</array>
+		<array>
+			<string>2015-02-17 23:00</string>
+			<string>1210.32</string>
+			<string>1207.65</string>
+			<string>1210.97</string>
+			<string>1204.0</string>
+		</array>
+		<array>
+			<string>2015-02-18 00:00</string>
+			<string>1207.72</string>
+			<string>1205.92</string>
+			<string>1207.72</string>
+			<string>1205.0</string>
+		</array>
+		<array>
+			<string>2015-02-18 01:00</string>
+			<string>1205.92</string>
+			<string>1206.61</string>
+			<string>1207.3</string>
+			<string>1203.65</string>
+		</array>
+		<array>
+			<string>2015-02-18 02:00</string>
+			<string>1206.61</string>
+			<string>1207.76</string>
+			<string>1209.17</string>
+			<string>1205.75</string>
+		</array>
+		<array>
+			<string>2015-02-18 03:00</string>
+			<string>1207.75</string>
+			<string>1207.09</string>
+			<string>1209.06</string>
+			<string>1206.95</string>
+		</array>
+		<array>
+			<string>2015-02-18 04:00</string>
+			<string>1207.09</string>
+			<string>1208.53</string>
+			<string>1209.56</string>
+			<string>1207.0</string>
+		</array>
+		<array>
+			<string>2015-02-18 05:00</string>
+			<string>1208.53</string>
+			<string>1209.45</string>
+			<string>1209.52</string>
+			<string>1208.0</string>
+		</array>
+		<array>
+			<string>2015-02-18 06:00</string>
+			<string>1209.42</string>
+			<string>1209.27</string>
+			<string>1209.7</string>
+			<string>1209.05</string>
+		</array>
+		<array>
+			<string>2015-02-18 07:00</string>
+			<string>1209.4</string>
+			<string>1209.37</string>
+			<string>1209.7</string>
+			<string>1208.35</string>
+		</array>
+		<array>
+			<string>2015-02-18 08:00</string>
+			<string>1209.2</string>
+			<string>1208.55</string>
+			<string>1209.51</string>
+			<string>1207.9</string>
+		</array>
+		<array>
+			<string>2015-02-18 09:00</string>
+			<string>1208.55</string>
+			<string>1208.15</string>
+			<string>1208.76</string>
+			<string>1207.55</string>
+		</array>
+		<array>
+			<string>2015-02-18 10:00</string>
+			<string>1208.12</string>
+			<string>1207.6</string>
+			<string>1209.35</string>
+			<string>1207.5</string>
+		</array>
+		<array>
+			<string>2015-02-18 11:00</string>
+			<string>1207.6</string>
+			<string>1206.69</string>
+			<string>1207.76</string>
+			<string>1206.25</string>
+		</array>
+		<array>
+			<string>2015-02-18 12:00</string>
+			<string>1206.65</string>
+			<string>1208.42</string>
+			<string>1208.91</string>
+			<string>1206.55</string>
+		</array>
+		<array>
+			<string>2015-02-18 13:00</string>
+			<string>1208.3</string>
+			<string>1209.57</string>
+			<string>1209.57</string>
+			<string>1207.99</string>
+		</array>
+		<array>
+			<string>2015-02-18 14:00</string>
+			<string>1209.57</string>
+			<string>1209.25</string>
+			<string>1210.9</string>
+			<string>1208.8</string>
+		</array>
+		<array>
+			<string>2015-02-18 15:00</string>
+			<string>1209.1</string>
+			<string>1208.82</string>
+			<string>1210.85</string>
+			<string>1208.45</string>
+		</array>
+		<array>
+			<string>2015-02-18 16:00</string>
+			<string>1208.82</string>
+			<string>1209.17</string>
+			<string>1210.8</string>
+			<string>1208.2</string>
+		</array>
+		<array>
+			<string>2015-02-18 17:00</string>
+			<string>1209.17</string>
+			<string>1208.09</string>
+			<string>1210.61</string>
+			<string>1207.55</string>
+		</array>
+		<array>
+			<string>2015-02-18 18:00</string>
+			<string>1208.09</string>
+			<string>1204.2</string>
+			<string>1208.92</string>
+			<string>1202.5</string>
+		</array>
+		<array>
+			<string>2015-02-18 19:00</string>
+			<string>1204.2</string>
+			<string>1205.9</string>
+			<string>1206.13</string>
+			<string>1204.2</string>
+		</array>
+		<array>
+			<string>2015-02-18 20:00</string>
+			<string>1205.9</string>
+			<string>1206.82</string>
+			<string>1208.15</string>
+			<string>1205.1</string>
+		</array>
+		<array>
+			<string>2015-02-18 21:00</string>
+			<string>1206.82</string>
+			<string>1207.75</string>
+			<string>1209.14</string>
+			<string>1204.6</string>
+		</array>
+		<array>
+			<string>2015-02-18 22:00</string>
+			<string>1207.75</string>
+			<string>1208.08</string>
+			<string>1211.0</string>
+			<string>1206.34</string>
+		</array>
+		<array>
+			<string>2015-02-18 23:00</string>
+			<string>1208.08</string>
+			<string>1206.24</string>
+			<string>1208.52</string>
+			<string>1204.65</string>
+		</array>
+		<array>
+			<string>2015-02-19 00:00</string>
+			<string>1206.24</string>
+			<string>1199.75</string>
+			<string>1206.24</string>
+			<string>1197.4</string>
+		</array>
+		<array>
+			<string>2015-02-19 01:00</string>
+			<string>1199.75</string>
+			<string>1200.45</string>
+			<string>1200.74</string>
+			<string>1198.45</string>
+		</array>
+		<array>
+			<string>2015-02-19 02:00</string>
+			<string>1200.45</string>
+			<string>1199.47</string>
+			<string>1201.39</string>
+			<string>1199.1</string>
+		</array>
+		<array>
+			<string>2015-02-19 03:00</string>
+			<string>1199.47</string>
+			<string>1207.7</string>
+			<string>1213.31</string>
+			<string>1199.47</string>
+		</array>
+		<array>
+			<string>2015-02-19 04:00</string>
+			<string>1207.7</string>
+			<string>1211.05</string>
+			<string>1212.24</string>
+			<string>1207.42</string>
+		</array>
+		<array>
+			<string>2015-02-19 05:00</string>
+			<string>1211.05</string>
+			<string>1212.26</string>
+			<string>1212.81</string>
+			<string>1210.29</string>
+		</array>
+		<array>
+			<string>2015-02-19 06:00</string>
+			<string>1212.07</string>
+			<string>1212.33</string>
+			<string>1213.5</string>
+			<string>1211.96</string>
+		</array>
+		<array>
+			<string>2015-02-19 07:00</string>
+			<string>1212.35</string>
+			<string>1213.05</string>
+			<string>1214.7</string>
+			<string>1211.32</string>
+		</array>
+		<array>
+			<string>2015-02-19 08:00</string>
+			<string>1213.05</string>
+			<string>1214.45</string>
+			<string>1214.92</string>
+			<string>1212.7</string>
+		</array>
+		<array>
+			<string>2015-02-19 09:00</string>
+			<string>1214.45</string>
+			<string>1215.51</string>
+			<string>1215.9</string>
+			<string>1214.45</string>
+		</array>
+		<array>
+			<string>2015-02-19 10:00</string>
+			<string>1215.51</string>
+			<string>1216.58</string>
+			<string>1217.53</string>
+			<string>1215.47</string>
+		</array>
+		<array>
+			<string>2015-02-19 11:00</string>
+			<string>1216.58</string>
+			<string>1215.72</string>
+			<string>1217.05</string>
+			<string>1215.1</string>
+		</array>
+		<array>
+			<string>2015-02-19 12:00</string>
+			<string>1215.74</string>
+			<string>1214.99</string>
+			<string>1216.39</string>
+			<string>1214.86</string>
+		</array>
+		<array>
+			<string>2015-02-19 13:00</string>
+			<string>1215.08</string>
+			<string>1216.39</string>
+			<string>1216.79</string>
+			<string>1214.52</string>
+		</array>
+		<array>
+			<string>2015-02-19 14:00</string>
+			<string>1216.39</string>
+			<string>1214.8</string>
+			<string>1216.79</string>
+			<string>1214.6</string>
+		</array>
+		<array>
+			<string>2015-02-19 15:00</string>
+			<string>1214.8</string>
+			<string>1214.55</string>
+			<string>1215.36</string>
+			<string>1214.15</string>
+		</array>
+		<array>
+			<string>2015-02-19 16:00</string>
+			<string>1214.52</string>
+			<string>1215.4</string>
+			<string>1217.86</string>
+			<string>1213.5</string>
+		</array>
+		<array>
+			<string>2015-02-19 17:00</string>
+			<string>1215.4</string>
+			<string>1217.85</string>
+			<string>1221.04</string>
+			<string>1214.7</string>
+		</array>
+		<array>
+			<string>2015-02-19 18:00</string>
+			<string>1217.8</string>
+			<string>1219.28</string>
+			<string>1219.35</string>
+			<string>1217.35</string>
+		</array>
+		<array>
+			<string>2015-02-19 19:00</string>
+			<string>1219.24</string>
+			<string>1218.04</string>
+			<string>1219.61</string>
+			<string>1216.3</string>
+		</array>
+		<array>
+			<string>2015-02-19 20:00</string>
+			<string>1217.8</string>
+			<string>1220.75</string>
+			<string>1222.91</string>
+			<string>1216.95</string>
+		</array>
+		<array>
+			<string>2015-02-19 21:00</string>
+			<string>1220.73</string>
+			<string>1214.65</string>
+			<string>1221.08</string>
+			<string>1213.95</string>
+		</array>
+		<array>
+			<string>2015-02-19 22:00</string>
+			<string>1214.6</string>
+			<string>1209.81</string>
+			<string>1215.25</string>
+			<string>1208.55</string>
+		</array>
+		<array>
+			<string>2015-02-19 23:00</string>
+			<string>1209.81</string>
+			<string>1208.63</string>
+			<string>1211.95</string>
+			<string>1207.55</string>
+		</array>
+		<array>
+			<string>2015-02-20 00:00</string>
+			<string>1208.58</string>
+			<string>1210.7</string>
+			<string>1213.46</string>
+			<string>1207.1</string>
+		</array>
+		<array>
+			<string>2015-02-20 01:00</string>
+			<string>1210.7</string>
+			<string>1207.95</string>
+			<string>1212.5</string>
+			<string>1207.6</string>
+		</array>
+		<array>
+			<string>2015-02-20 02:00</string>
+			<string>1207.95</string>
+			<string>1209.04</string>
+			<string>1209.52</string>
+			<string>1206.3</string>
+		</array>
+		<array>
+			<string>2015-02-20 03:00</string>
+			<string>1209.01</string>
+			<string>1207.92</string>
+			<string>1209.39</string>
+			<string>1206.96</string>
+		</array>
+		<array>
+			<string>2015-02-20 04:00</string>
+			<string>1207.92</string>
+			<string>1207.35</string>
+			<string>1208.22</string>
+			<string>1205.3</string>
+		</array>
+		<array>
+			<string>2015-02-20 05:00</string>
+			<string>1207.3</string>
+			<string>1206.6</string>
+			<string>1207.52</string>
+			<string>1206.3</string>
+		</array>
+		<array>
+			<string>2015-02-20 06:00</string>
+			<string>1206.52</string>
+			<string>1206.44</string>
+			<string>1207.3</string>
+			<string>1206.35</string>
+		</array>
+		<array>
+			<string>2015-02-20 07:00</string>
+			<string>1207.45</string>
+			<string>1208.83</string>
+			<string>1209.17</string>
+			<string>1206.95</string>
+		</array>
+		<array>
+			<string>2015-02-20 08:00</string>
+			<string>1208.83</string>
+			<string>1208.98</string>
+			<string>1209.43</string>
+			<string>1207.99</string>
+		</array>
+		<array>
+			<string>2015-02-20 09:00</string>
+			<string>1208.98</string>
+			<string>1209.33</string>
+			<string>1209.67</string>
+			<string>1208.55</string>
+		</array>
+		<array>
+			<string>2015-02-20 10:00</string>
+			<string>1209.33</string>
+			<string>1206.83</string>
+			<string>1209.61</string>
+			<string>1206.2</string>
+		</array>
+		<array>
+			<string>2015-02-20 11:00</string>
+			<string>1206.81</string>
+			<string>1206.03</string>
+			<string>1206.97</string>
+			<string>1205.7</string>
+		</array>
+		<array>
+			<string>2015-02-20 12:00</string>
+			<string>1205.9</string>
+			<string>1207.25</string>
+			<string>1207.6</string>
+			<string>1205.9</string>
+		</array>
+		<array>
+			<string>2015-02-20 13:00</string>
+			<string>1207.25</string>
+			<string>1207.68</string>
+			<string>1208.14</string>
+			<string>1207.08</string>
+		</array>
+		<array>
+			<string>2015-02-20 14:00</string>
+			<string>1207.68</string>
+			<string>1208.45</string>
+			<string>1209.12</string>
+			<string>1207.68</string>
+		</array>
+		<array>
+			<string>2015-02-20 15:00</string>
+			<string>1208.45</string>
+			<string>1207.8</string>
+			<string>1208.85</string>
+			<string>1206.75</string>
+		</array>
+		<array>
+			<string>2015-02-20 16:00</string>
+			<string>1207.8</string>
+			<string>1207.14</string>
+			<string>1208.75</string>
+			<string>1206.0</string>
+		</array>
+		<array>
+			<string>2015-02-20 17:00</string>
+			<string>1207.14</string>
+			<string>1204.44</string>
+			<string>1207.16</string>
+			<string>1201.45</string>
+		</array>
+		<array>
+			<string>2015-02-20 18:00</string>
+			<string>1204.44</string>
+			<string>1203.77</string>
+			<string>1204.98</string>
+			<string>1202.95</string>
+		</array>
+		<array>
+			<string>2015-02-20 19:00</string>
+			<string>1203.77</string>
+			<string>1203.85</string>
+			<string>1204.5</string>
+			<string>1202.25</string>
+		</array>
+		<array>
+			<string>2015-02-20 20:00</string>
+			<string>1203.85</string>
+			<string>1213.67</string>
+			<string>1214.75</string>
+			<string>1202.8</string>
+		</array>
+		<array>
+			<string>2015-02-20 21:00</string>
+			<string>1213.67</string>
+			<string>1211.5</string>
+			<string>1215.1</string>
+			<string>1211.3</string>
+		</array>
+		<array>
+			<string>2015-02-20 22:00</string>
+			<string>1211.5</string>
+			<string>1209.91</string>
+			<string>1212.64</string>
+			<string>1207.85</string>
+		</array>
+		<array>
+			<string>2015-02-20 23:00</string>
+			<string>1209.91</string>
+			<string>1206.45</string>
+			<string>1210.18</string>
+			<string>1204.55</string>
+		</array>
+		<array>
+			<string>2015-02-21 00:00</string>
+			<string>1206.5</string>
+			<string>1207.32</string>
+			<string>1208.0</string>
+			<string>1205.15</string>
+		</array>
+		<array>
+			<string>2015-02-21 01:00</string>
+			<string>1207.35</string>
+			<string>1206.6</string>
+			<string>1208.74</string>
+			<string>1205.4</string>
+		</array>
+		<array>
+			<string>2015-02-21 02:00</string>
+			<string>1206.6</string>
+			<string>1200.66</string>
+			<string>1207.75</string>
+			<string>1199.82</string>
+		</array>
+		<array>
+			<string>2015-02-21 03:00</string>
+			<string>1200.64</string>
+			<string>1199.58</string>
+			<string>1201.22</string>
+			<string>1198.2</string>
+		</array>
+		<array>
+			<string>2015-02-21 04:00</string>
+			<string>1199.58</string>
+			<string>1200.91</string>
+			<string>1202.22</string>
+			<string>1198.92</string>
+		</array>
+		<array>
+			<string>2015-02-21 05:00</string>
+			<string>1200.76</string>
+			<string>1201.75</string>
+			<string>1202.84</string>
+			<string>1200.32</string>
+		</array>
+		<array>
+			<string>2015-02-21 06:00</string>
+			<string>1201.66</string>
+			<string>1201.57</string>
+			<string>1201.66</string>
+			<string>1201.57</string>
+		</array>
+		<array>
+			<string>2015-02-23 07:00</string>
+			<string>1203.51</string>
+			<string>1202.15</string>
+			<string>1203.59</string>
+			<string>1200.75</string>
+		</array>
+		<array>
+			<string>2015-02-23 08:00</string>
+			<string>1202.15</string>
+			<string>1203.04</string>
+			<string>1203.5</string>
+			<string>1201.44</string>
+		</array>
+		<array>
+			<string>2015-02-23 09:00</string>
+			<string>1203.05</string>
+			<string>1202.46</string>
+			<string>1203.22</string>
+			<string>1200.85</string>
+		</array>
+		<array>
+			<string>2015-02-23 10:00</string>
+			<string>1202.46</string>
+			<string>1202.4</string>
+			<string>1203.03</string>
+			<string>1201.75</string>
+		</array>
+		<array>
+			<string>2015-02-23 11:00</string>
+			<string>1202.35</string>
+			<string>1202.83</string>
+			<string>1203.62</string>
+			<string>1201.82</string>
+		</array>
+		<array>
+			<string>2015-02-23 12:00</string>
+			<string>1202.8</string>
+			<string>1204.55</string>
+			<string>1204.7</string>
+			<string>1202.67</string>
+		</array>
+		<array>
+			<string>2015-02-23 13:00</string>
+			<string>1204.55</string>
+			<string>1203.15</string>
+			<string>1204.79</string>
+			<string>1203.15</string>
+		</array>
+		<array>
+			<string>2015-02-23 14:00</string>
+			<string>1203.15</string>
+			<string>1202.89</string>
+			<string>1203.9</string>
+			<string>1202.65</string>
+		</array>
+		<array>
+			<string>2015-02-23 15:00</string>
+			<string>1202.89</string>
+			<string>1201.94</string>
+			<string>1203.54</string>
+			<string>1201.75</string>
+		</array>
+		<array>
+			<string>2015-02-23 16:00</string>
+			<string>1201.9</string>
+			<string>1193.01</string>
+			<string>1201.9</string>
+			<string>1190.69</string>
+		</array>
+		<array>
+			<string>2015-02-23 17:00</string>
+			<string>1193.01</string>
+			<string>1192.35</string>
+			<string>1194.26</string>
+			<string>1191.1</string>
+		</array>
+		<array>
+			<string>2015-02-23 18:00</string>
+			<string>1192.3</string>
+			<string>1193.07</string>
+			<string>1193.71</string>
+			<string>1191.9</string>
+		</array>
+		<array>
+			<string>2015-02-23 19:00</string>
+			<string>1193.0</string>
+			<string>1194.16</string>
+			<string>1195.55</string>
+			<string>1192.45</string>
+		</array>
+		<array>
+			<string>2015-02-23 20:00</string>
+			<string>1194.16</string>
+			<string>1196.51</string>
+			<string>1197.74</string>
+			<string>1194.03</string>
+		</array>
+		<array>
+			<string>2015-02-23 21:00</string>
+			<string>1196.51</string>
+			<string>1199.55</string>
+			<string>1202.89</string>
+			<string>1196.15</string>
+		</array>
+		<array>
+			<string>2015-02-23 22:00</string>
+			<string>1199.55</string>
+			<string>1204.35</string>
+			<string>1207.55</string>
+			<string>1197.35</string>
+		</array>
+		<array>
+			<string>2015-02-23 23:00</string>
+			<string>1204.35</string>
+			<string>1204.25</string>
+			<string>1210.25</string>
+			<string>1203.45</string>
+		</array>
+		<array>
+			<string>2015-02-24 00:00</string>
+			<string>1204.25</string>
+			<string>1201.44</string>
+			<string>1204.78</string>
+			<string>1200.6</string>
+		</array>
+		<array>
+			<string>2015-02-24 01:00</string>
+			<string>1201.3</string>
+			<string>1199.75</string>
+			<string>1201.52</string>
+			<string>1198.35</string>
+		</array>
+		<array>
+			<string>2015-02-24 02:00</string>
+			<string>1199.75</string>
+			<string>1200.79</string>
+			<string>1203.1</string>
+			<string>1198.85</string>
+		</array>
+		<array>
+			<string>2015-02-24 03:00</string>
+			<string>1200.84</string>
+			<string>1201.17</string>
+			<string>1202.45</string>
+			<string>1200.4</string>
+		</array>
+		<array>
+			<string>2015-02-24 04:00</string>
+			<string>1201.18</string>
+			<string>1202.07</string>
+			<string>1202.42</string>
+			<string>1200.75</string>
+		</array>
+		<array>
+			<string>2015-02-24 05:00</string>
+			<string>1202.07</string>
+			<string>1201.56</string>
+			<string>1202.35</string>
+			<string>1200.9</string>
+		</array>
+		<array>
+			<string>2015-02-24 06:00</string>
+			<string>1201.56</string>
+			<string>1201.28</string>
+			<string>1201.75</string>
+			<string>1201.0</string>
+		</array>
+		<array>
+			<string>2015-02-24 07:00</string>
+			<string>1201.85</string>
+			<string>1203.04</string>
+			<string>1203.35</string>
+			<string>1201.58</string>
+		</array>
+		<array>
+			<string>2015-02-24 08:00</string>
+			<string>1203.05</string>
+			<string>1204.23</string>
+			<string>1204.35</string>
+			<string>1201.1</string>
+		</array>
+		<array>
+			<string>2015-02-24 09:00</string>
+			<string>1204.23</string>
+			<string>1202.84</string>
+			<string>1204.45</string>
+			<string>1202.6</string>
+		</array>
+		<array>
+			<string>2015-02-24 10:00</string>
+			<string>1202.84</string>
+			<string>1201.7</string>
+			<string>1203.88</string>
+			<string>1201.25</string>
+		</array>
+		<array>
+			<string>2015-02-24 11:00</string>
+			<string>1201.79</string>
+			<string>1201.87</string>
+			<string>1202.04</string>
+			<string>1201.35</string>
+		</array>
+		<array>
+			<string>2015-02-24 12:00</string>
+			<string>1201.87</string>
+			<string>1203.17</string>
+			<string>1203.41</string>
+			<string>1201.75</string>
+		</array>
+		<array>
+			<string>2015-02-24 13:00</string>
+			<string>1203.1</string>
+			<string>1200.97</string>
+			<string>1203.47</string>
+			<string>1200.65</string>
+		</array>
+		<array>
+			<string>2015-02-24 14:00</string>
+			<string>1200.97</string>
+			<string>1199.38</string>
+			<string>1201.58</string>
+			<string>1198.2</string>
+		</array>
+		<array>
+			<string>2015-02-24 15:00</string>
+			<string>1199.38</string>
+			<string>1199.55</string>
+			<string>1200.74</string>
+			<string>1197.9</string>
+		</array>
+		<array>
+			<string>2015-02-24 16:00</string>
+			<string>1199.4</string>
+			<string>1198.04</string>
+			<string>1199.7</string>
+			<string>1197.2</string>
+		</array>
+		<array>
+			<string>2015-02-24 17:00</string>
+			<string>1198.04</string>
+			<string>1195.01</string>
+			<string>1198.05</string>
+			<string>1194.4</string>
+		</array>
+		<array>
+			<string>2015-02-24 18:00</string>
+			<string>1195.01</string>
+			<string>1198.05</string>
+			<string>1198.57</string>
+			<string>1194.55</string>
+		</array>
+		<array>
+			<string>2015-02-24 19:00</string>
+			<string>1197.95</string>
+			<string>1198.23</string>
+			<string>1199.82</string>
+			<string>1196.95</string>
+		</array>
+		<array>
+			<string>2015-02-24 20:00</string>
+			<string>1198.22</string>
+			<string>1200.7</string>
+			<string>1201.57</string>
+			<string>1198.0</string>
+		</array>
+		<array>
+			<string>2015-02-24 21:00</string>
+			<string>1200.7</string>
+			<string>1197.15</string>
+			<string>1201.03</string>
+			<string>1196.75</string>
+		</array>
+		<array>
+			<string>2015-02-24 22:00</string>
+			<string>1197.15</string>
+			<string>1195.9</string>
+			<string>1198.52</string>
+			<string>1195.45</string>
+		</array>
+		<array>
+			<string>2015-02-24 23:00</string>
+			<string>1195.9</string>
+			<string>1199.27</string>
+			<string>1202.82</string>
+			<string>1190.29</string>
+		</array>
+		<array>
+			<string>2015-02-25 00:00</string>
+			<string>1199.27</string>
+			<string>1193.25</string>
+			<string>1200.19</string>
+			<string>1191.9</string>
+		</array>
+		<array>
+			<string>2015-02-25 01:00</string>
+			<string>1193.13</string>
+			<string>1196.48</string>
+			<string>1198.16</string>
+			<string>1191.9</string>
+		</array>
+		<array>
+			<string>2015-02-25 02:00</string>
+			<string>1196.48</string>
+			<string>1198.59</string>
+			<string>1199.63</string>
+			<string>1195.95</string>
+		</array>
+		<array>
+			<string>2015-02-25 03:00</string>
+			<string>1198.51</string>
+			<string>1199.9</string>
+			<string>1200.92</string>
+			<string>1198.25</string>
+		</array>
+		<array>
+			<string>2015-02-25 04:00</string>
+			<string>1199.89</string>
+			<string>1200.15</string>
+			<string>1201.05</string>
+			<string>1199.79</string>
+		</array>
+		<array>
+			<string>2015-02-25 05:00</string>
+			<string>1200.15</string>
+			<string>1200.29</string>
+			<string>1200.3</string>
+			<string>1199.28</string>
+		</array>
+		<array>
+			<string>2015-02-25 06:00</string>
+			<string>1200.02</string>
+			<string>1200.59</string>
+			<string>1200.85</string>
+			<string>1199.8</string>
+		</array>
+		<array>
+			<string>2015-02-25 07:00</string>
+			<string>1201.1</string>
+			<string>1204.81</string>
+			<string>1205.03</string>
+			<string>1200.83</string>
+		</array>
+		<array>
+			<string>2015-02-25 08:00</string>
+			<string>1204.81</string>
+			<string>1208.04</string>
+			<string>1208.42</string>
+			<string>1203.8</string>
+		</array>
+		<array>
+			<string>2015-02-25 09:00</string>
+			<string>1208.04</string>
+			<string>1209.94</string>
+			<string>1210.19</string>
+			<string>1207.9</string>
+		</array>
+		<array>
+			<string>2015-02-25 10:00</string>
+			<string>1209.94</string>
+			<string>1209.53</string>
+			<string>1210.06</string>
+			<string>1208.64</string>
+		</array>
+		<array>
+			<string>2015-02-25 11:00</string>
+			<string>1209.53</string>
+			<string>1209.45</string>
+			<string>1209.81</string>
+			<string>1208.9</string>
+		</array>
+		<array>
+			<string>2015-02-25 12:00</string>
+			<string>1209.45</string>
+			<string>1207.64</string>
+			<string>1209.95</string>
+			<string>1207.5</string>
+		</array>
+		<array>
+			<string>2015-02-25 13:00</string>
+			<string>1207.6</string>
+			<string>1209.44</string>
+			<string>1209.9</string>
+			<string>1207.6</string>
+		</array>
+		<array>
+			<string>2015-02-25 14:00</string>
+			<string>1209.45</string>
+			<string>1211.1</string>
+			<string>1211.79</string>
+			<string>1209.35</string>
+		</array>
+		<array>
+			<string>2015-02-25 15:00</string>
+			<string>1210.95</string>
+			<string>1209.3</string>
+			<string>1211.67</string>
+			<string>1208.65</string>
+		</array>
+		<array>
+			<string>2015-02-25 16:00</string>
+			<string>1209.35</string>
+			<string>1208.85</string>
+			<string>1209.78</string>
+			<string>1207.95</string>
+		</array>
+		<array>
+			<string>2015-02-25 17:00</string>
+			<string>1208.8</string>
+			<string>1208.03</string>
+			<string>1208.99</string>
+			<string>1207.6</string>
+		</array>
+		<array>
+			<string>2015-02-25 18:00</string>
+			<string>1208.03</string>
+			<string>1206.94</string>
+			<string>1208.24</string>
+			<string>1206.35</string>
+		</array>
+		<array>
+			<string>2015-02-25 19:00</string>
+			<string>1206.96</string>
+			<string>1208.73</string>
+			<string>1209.46</string>
+			<string>1206.65</string>
+		</array>
+		<array>
+			<string>2015-02-25 20:00</string>
+			<string>1208.73</string>
+			<string>1207.45</string>
+			<string>1210.15</string>
+			<string>1206.6</string>
+		</array>
+		<array>
+			<string>2015-02-25 21:00</string>
+			<string>1207.4</string>
+			<string>1206.8</string>
+			<string>1211.0</string>
+			<string>1205.5</string>
+		</array>
+		<array>
+			<string>2015-02-25 22:00</string>
+			<string>1206.8</string>
+			<string>1205.17</string>
+			<string>1207.16</string>
+			<string>1204.2</string>
+		</array>
+		<array>
+			<string>2015-02-25 23:00</string>
+			<string>1205.0</string>
+			<string>1204.19</string>
+			<string>1206.8</string>
+			<string>1202.95</string>
+		</array>
+		<array>
+			<string>2015-02-26 00:00</string>
+			<string>1204.19</string>
+			<string>1203.62</string>
+			<string>1205.69</string>
+			<string>1203.2</string>
+		</array>
+		<array>
+			<string>2015-02-26 01:00</string>
+			<string>1203.62</string>
+			<string>1203.29</string>
+			<string>1204.45</string>
+			<string>1202.7</string>
+		</array>
+		<array>
+			<string>2015-02-26 02:00</string>
+			<string>1203.1</string>
+			<string>1203.76</string>
+			<string>1204.23</string>
+			<string>1200.9</string>
+		</array>
+		<array>
+			<string>2015-02-26 03:00</string>
+			<string>1203.8</string>
+			<string>1203.44</string>
+			<string>1204.38</string>
+			<string>1202.7</string>
+		</array>
+		<array>
+			<string>2015-02-26 04:00</string>
+			<string>1203.42</string>
+			<string>1204.59</string>
+			<string>1205.21</string>
+			<string>1203.25</string>
+		</array>
+		<array>
+			<string>2015-02-26 05:00</string>
+			<string>1204.59</string>
+			<string>1204.81</string>
+			<string>1205.1</string>
+			<string>1204.03</string>
+		</array>
+		<array>
+			<string>2015-02-26 06:00</string>
+			<string>1204.88</string>
+			<string>1203.79</string>
+			<string>1204.88</string>
+			<string>1203.65</string>
+		</array>
+		<array>
+			<string>2015-02-26 07:00</string>
+			<string>1204.1</string>
+			<string>1205.55</string>
+			<string>1205.69</string>
+			<string>1203.94</string>
+		</array>
+		<array>
+			<string>2015-02-26 08:00</string>
+			<string>1205.45</string>
+			<string>1204.01</string>
+			<string>1205.55</string>
+			<string>1203.95</string>
+		</array>
+		<array>
+			<string>2015-02-26 09:00</string>
+			<string>1204.0</string>
+			<string>1206.95</string>
+			<string>1207.42</string>
+			<string>1203.45</string>
+		</array>
+		<array>
+			<string>2015-02-26 10:00</string>
+			<string>1206.95</string>
+			<string>1209.05</string>
+			<string>1209.34</string>
+			<string>1206.6</string>
+		</array>
+		<array>
+			<string>2015-02-26 11:00</string>
+			<string>1209.05</string>
+			<string>1208.99</string>
+			<string>1209.44</string>
+			<string>1208.45</string>
+		</array>
+		<array>
+			<string>2015-02-26 12:00</string>
+			<string>1208.99</string>
+			<string>1209.02</string>
+			<string>1209.63</string>
+			<string>1208.1</string>
+		</array>
+		<array>
+			<string>2015-02-26 13:00</string>
+			<string>1209.02</string>
+			<string>1210.28</string>
+			<string>1210.33</string>
+			<string>1208.5</string>
+		</array>
+		<array>
+			<string>2015-02-26 14:00</string>
+			<string>1210.28</string>
+			<string>1211.0</string>
+			<string>1213.0</string>
+			<string>1210.0</string>
+		</array>
+		<array>
+			<string>2015-02-26 15:00</string>
+			<string>1211.18</string>
+			<string>1211.69</string>
+			<string>1211.76</string>
+			<string>1209.5</string>
+		</array>
+		<array>
+			<string>2015-02-26 16:00</string>
+			<string>1211.5</string>
+			<string>1214.55</string>
+			<string>1216.0</string>
+			<string>1211.5</string>
+		</array>
+		<array>
+			<string>2015-02-26 17:00</string>
+			<string>1214.55</string>
+			<string>1219.1</string>
+			<string>1219.58</string>
+			<string>1213.45</string>
+		</array>
+		<array>
+			<string>2015-02-26 18:00</string>
+			<string>1219.1</string>
+			<string>1217.9</string>
+			<string>1219.86</string>
+			<string>1216.9</string>
+		</array>
+		<array>
+			<string>2015-02-26 19:00</string>
+			<string>1217.9</string>
+			<string>1216.42</string>
+			<string>1219.62</string>
+			<string>1216.15</string>
+		</array>
+		<array>
+			<string>2015-02-26 20:00</string>
+			<string>1216.4</string>
+			<string>1216.29</string>
+			<string>1218.73</string>
+			<string>1215.7</string>
+		</array>
+		<array>
+			<string>2015-02-26 21:00</string>
+			<string>1216.29</string>
+			<string>1214.7</string>
+			<string>1219.72</string>
+			<string>1213.8</string>
+		</array>
+		<array>
+			<string>2015-02-26 22:00</string>
+			<string>1214.7</string>
+			<string>1208.2</string>
+			<string>1214.75</string>
+			<string>1207.93</string>
+		</array>
+		<array>
+			<string>2015-02-26 23:00</string>
+			<string>1208.2</string>
+			<string>1208.73</string>
+			<string>1209.52</string>
+			<string>1206.55</string>
+		</array>
+		<array>
+			<string>2015-02-27 00:00</string>
+			<string>1208.73</string>
+			<string>1209.21</string>
+			<string>1211.14</string>
+			<string>1206.7</string>
+		</array>
+		<array>
+			<string>2015-02-27 01:00</string>
+			<string>1209.21</string>
+			<string>1209.86</string>
+			<string>1210.71</string>
+			<string>1208.0</string>
+		</array>
+		<array>
+			<string>2015-02-27 02:00</string>
+			<string>1209.8</string>
+			<string>1209.3</string>
+			<string>1210.54</string>
+			<string>1208.3</string>
+		</array>
+		<array>
+			<string>2015-02-27 03:00</string>
+			<string>1209.3</string>
+			<string>1207.4</string>
+			<string>1209.58</string>
+			<string>1207.3</string>
+		</array>
+		<array>
+			<string>2015-02-27 04:00</string>
+			<string>1207.4</string>
+			<string>1208.7</string>
+			<string>1208.9</string>
+			<string>1206.35</string>
+		</array>
+		<array>
+			<string>2015-02-27 05:00</string>
+			<string>1208.65</string>
+			<string>1209.1</string>
+			<string>1209.3</string>
+			<string>1208.35</string>
+		</array>
+		<array>
+			<string>2015-02-27 06:00</string>
+			<string>1208.9</string>
+			<string>1208.9</string>
+			<string>1209.35</string>
+			<string>1208.85</string>
+		</array>
+		<array>
+			<string>2015-02-27 07:00</string>
+			<string>1209.0</string>
+			<string>1209.9</string>
+			<string>1210.05</string>
+			<string>1207.8</string>
+		</array>
+		<array>
+			<string>2015-02-27 08:00</string>
+			<string>1209.85</string>
+			<string>1210.05</string>
+			<string>1211.54</string>
+			<string>1209.5</string>
+		</array>
+		<array>
+			<string>2015-02-27 09:00</string>
+			<string>1209.92</string>
+			<string>1209.91</string>
+			<string>1210.78</string>
+			<string>1208.95</string>
+		</array>
+		<array>
+			<string>2015-02-27 10:00</string>
+			<string>1209.96</string>
+			<string>1209.6</string>
+			<string>1210.35</string>
+			<string>1209.35</string>
+		</array>
+		<array>
+			<string>2015-02-27 11:00</string>
+			<string>1209.6</string>
+			<string>1209.82</string>
+			<string>1210.34</string>
+			<string>1209.2</string>
+		</array>
+		<array>
+			<string>2015-02-27 12:00</string>
+			<string>1209.89</string>
+			<string>1209.14</string>
+			<string>1210.05</string>
+			<string>1208.45</string>
+		</array>
+		<array>
+			<string>2015-02-27 13:00</string>
+			<string>1209.14</string>
+			<string>1209.8</string>
+			<string>1210.91</string>
+			<string>1208.35</string>
+		</array>
+		<array>
+			<string>2015-02-27 14:00</string>
+			<string>1209.9</string>
+			<string>1209.96</string>
+			<string>1212.05</string>
+			<string>1209.5</string>
+		</array>
+		<array>
+			<string>2015-02-27 15:00</string>
+			<string>1209.95</string>
+			<string>1209.42</string>
+			<string>1210.61</string>
+			<string>1208.8</string>
+		</array>
+		<array>
+			<string>2015-02-27 16:00</string>
+			<string>1209.4</string>
+			<string>1205.17</string>
+			<string>1209.4</string>
+			<string>1204.5</string>
+		</array>
+		<array>
+			<string>2015-02-27 17:00</string>
+			<string>1205.17</string>
+			<string>1206.65</string>
+			<string>1207.16</string>
+			<string>1204.75</string>
+		</array>
+		<array>
+			<string>2015-02-27 18:00</string>
+			<string>1206.5</string>
+			<string>1206.16</string>
+			<string>1206.74</string>
+			<string>1204.3</string>
+		</array>
+		<array>
+			<string>2015-02-27 19:00</string>
+			<string>1206.16</string>
+			<string>1207.75</string>
+			<string>1208.39</string>
+			<string>1205.5</string>
+		</array>
+		<array>
+			<string>2015-02-27 20:00</string>
+			<string>1207.75</string>
+			<string>1209.45</string>
+			<string>1209.66</string>
+			<string>1207.58</string>
+		</array>
+		<array>
+			<string>2015-02-27 21:00</string>
+			<string>1209.45</string>
+			<string>1208.67</string>
+			<string>1210.73</string>
+			<string>1208.4</string>
+		</array>
+		<array>
+			<string>2015-02-27 22:00</string>
+			<string>1208.67</string>
+			<string>1214.5</string>
+			<string>1217.32</string>
+			<string>1208.2</string>
+		</array>
+		<array>
+			<string>2015-02-27 23:00</string>
+			<string>1214.5</string>
+			<string>1217.54</string>
+			<string>1219.23</string>
+			<string>1212.65</string>
+		</array>
+		<array>
+			<string>2015-02-28 00:00</string>
+			<string>1217.54</string>
+			<string>1217.24</string>
+			<string>1218.6</string>
+			<string>1215.1</string>
+		</array>
+		<array>
+			<string>2015-02-28 01:00</string>
+			<string>1217.24</string>
+			<string>1213.52</string>
+			<string>1217.3</string>
+			<string>1213.0</string>
+		</array>
+		<array>
+			<string>2015-02-28 02:00</string>
+			<string>1213.52</string>
+			<string>1213.92</string>
+			<string>1214.25</string>
+			<string>1210.8</string>
+		</array>
+		<array>
+			<string>2015-02-28 03:00</string>
+			<string>1213.92</string>
+			<string>1213.65</string>
+			<string>1213.96</string>
+			<string>1212.02</string>
+		</array>
+		<array>
+			<string>2015-02-28 04:00</string>
+			<string>1213.65</string>
+			<string>1210.84</string>
+			<string>1213.73</string>
+			<string>1210.68</string>
+		</array>
+		<array>
+			<string>2015-02-28 05:00</string>
+			<string>1210.78</string>
+			<string>1212.92</string>
+			<string>1213.53</string>
+			<string>1210.69</string>
+		</array>
+		<array>
+			<string>2015-02-28 06:00</string>
+			<string>1212.94</string>
+			<string>1212.88</string>
+			<string>1213.27</string>
+			<string>1212.88</string>
+		</array>
+		<array>
+			<string>2015-03-02 07:00</string>
+			<string>1213.41</string>
+			<string>1214.02</string>
+			<string>1214.61</string>
+			<string>1213.35</string>
+		</array>
+		<array>
+			<string>2015-03-02 08:00</string>
+			<string>1214.02</string>
+			<string>1215.28</string>
+			<string>1216.01</string>
+			<string>1213.69</string>
+		</array>
+		<array>
+			<string>2015-03-02 09:00</string>
+			<string>1215.25</string>
+			<string>1220.07</string>
+			<string>1220.85</string>
+			<string>1214.95</string>
+		</array>
+		<array>
+			<string>2015-03-02 10:00</string>
+			<string>1220.07</string>
+			<string>1221.88</string>
+			<string>1223.14</string>
+			<string>1219.9</string>
+		</array>
+		<array>
+			<string>2015-03-02 11:00</string>
+			<string>1221.88</string>
+			<string>1221.22</string>
+			<string>1222.72</string>
+			<string>1221.0</string>
+		</array>
+		<array>
+			<string>2015-03-02 12:00</string>
+			<string>1221.22</string>
+			<string>1220.3</string>
+			<string>1221.58</string>
+			<string>1220.15</string>
+		</array>
+		<array>
+			<string>2015-03-02 13:00</string>
+			<string>1220.3</string>
+			<string>1221.91</string>
+			<string>1223.19</string>
+			<string>1220.2</string>
+		</array>
+		<array>
+			<string>2015-03-02 14:00</string>
+			<string>1221.91</string>
+			<string>1221.1</string>
+			<string>1223.15</string>
+			<string>1220.0</string>
+		</array>
+		<array>
+			<string>2015-03-02 15:00</string>
+			<string>1221.1</string>
+			<string>1219.16</string>
+			<string>1222.23</string>
+			<string>1218.8</string>
+		</array>
+		<array>
+			<string>2015-03-02 16:00</string>
+			<string>1219.16</string>
+			<string>1218.66</string>
+			<string>1219.22</string>
+			<string>1217.54</string>
+		</array>
+		<array>
+			<string>2015-03-02 17:00</string>
+			<string>1218.66</string>
+			<string>1215.22</string>
+			<string>1218.69</string>
+			<string>1214.55</string>
+		</array>
+		<array>
+			<string>2015-03-02 18:00</string>
+			<string>1215.22</string>
+			<string>1216.97</string>
+			<string>1217.3</string>
+			<string>1214.8</string>
+		</array>
+		<array>
+			<string>2015-03-02 19:00</string>
+			<string>1216.92</string>
+			<string>1215.82</string>
+			<string>1217.53</string>
+			<string>1215.7</string>
+		</array>
+		<array>
+			<string>2015-03-02 20:00</string>
+			<string>1215.82</string>
+			<string>1216.4</string>
+			<string>1217.71</string>
+			<string>1212.8</string>
+		</array>
+		<array>
+			<string>2015-03-02 21:00</string>
+			<string>1216.43</string>
+			<string>1215.01</string>
+			<string>1219.69</string>
+			<string>1213.75</string>
+		</array>
+		<array>
+			<string>2015-03-02 22:00</string>
+			<string>1215.01</string>
+			<string>1212.0</string>
+			<string>1215.9</string>
+			<string>1211.2</string>
+		</array>
+		<array>
+			<string>2015-03-02 23:00</string>
+			<string>1212.0</string>
+			<string>1208.38</string>
+			<string>1213.04</string>
+			<string>1207.0</string>
+		</array>
+		<array>
+			<string>2015-03-03 00:00</string>
+			<string>1208.38</string>
+			<string>1209.05</string>
+			<string>1209.61</string>
+			<string>1206.8</string>
+		</array>
+		<array>
+			<string>2015-03-03 01:00</string>
+			<string>1209.07</string>
+			<string>1207.67</string>
+			<string>1209.4</string>
+			<string>1207.25</string>
+		</array>
+		<array>
+			<string>2015-03-03 02:00</string>
+			<string>1207.68</string>
+			<string>1208.71</string>
+			<string>1209.04</string>
+			<string>1207.11</string>
+		</array>
+		<array>
+			<string>2015-03-03 03:00</string>
+			<string>1208.71</string>
+			<string>1205.42</string>
+			<string>1209.17</string>
+			<string>1204.55</string>
+		</array>
+		<array>
+			<string>2015-03-03 04:00</string>
+			<string>1205.42</string>
+			<string>1205.08</string>
+			<string>1206.74</string>
+			<string>1204.5</string>
+		</array>
+		<array>
+			<string>2015-03-03 05:00</string>
+			<string>1205.08</string>
+			<string>1206.66</string>
+			<string>1207.39</string>
+			<string>1205.08</string>
+		</array>
+		<array>
+			<string>2015-03-03 06:00</string>
+			<string>1206.71</string>
+			<string>1206.58</string>
+			<string>1207.25</string>
+			<string>1206.0</string>
+		</array>
+		<array>
+			<string>2015-03-03 07:00</string>
+			<string>1205.96</string>
+			<string>1206.89</string>
+			<string>1206.89</string>
+			<string>1205.7</string>
+		</array>
+		<array>
+			<string>2015-03-03 08:00</string>
+			<string>1206.88</string>
+			<string>1208.76</string>
+			<string>1208.94</string>
+			<string>1206.75</string>
+		</array>
+		<array>
+			<string>2015-03-03 09:00</string>
+			<string>1208.76</string>
+			<string>1204.8</string>
+			<string>1209.92</string>
+			<string>1203.6</string>
+		</array>
+		<array>
+			<string>2015-03-03 10:00</string>
+			<string>1204.8</string>
+			<string>1200.88</string>
+			<string>1204.8</string>
+			<string>1195.35</string>
+		</array>
+		<array>
+			<string>2015-03-03 11:00</string>
+			<string>1200.88</string>
+			<string>1207.53</string>
+			<string>1208.14</string>
+			<string>1200.23</string>
+		</array>
+		<array>
+			<string>2015-03-03 12:00</string>
+			<string>1207.53</string>
+			<string>1208.55</string>
+			<string>1210.85</string>
+			<string>1207.4</string>
+		</array>
+		<array>
+			<string>2015-03-03 13:00</string>
+			<string>1208.55</string>
+			<string>1210.02</string>
+			<string>1210.6</string>
+			<string>1206.7</string>
+		</array>
+		<array>
+			<string>2015-03-03 14:00</string>
+			<string>1209.95</string>
+			<string>1209.18</string>
+			<string>1211.39</string>
+			<string>1208.7</string>
+		</array>
+		<array>
+			<string>2015-03-03 15:00</string>
+			<string>1209.18</string>
+			<string>1208.04</string>
+			<string>1209.9</string>
+			<string>1207.6</string>
+		</array>
+		<array>
+			<string>2015-03-03 16:00</string>
+			<string>1208.04</string>
+			<string>1209.39</string>
+			<string>1209.84</string>
+			<string>1207.15</string>
+		</array>
+		<array>
+			<string>2015-03-03 17:00</string>
+			<string>1209.41</string>
+			<string>1208.59</string>
+			<string>1210.41</string>
+			<string>1207.85</string>
+		</array>
+		<array>
+			<string>2015-03-03 18:00</string>
+			<string>1208.58</string>
+			<string>1207.88</string>
+			<string>1209.41</string>
+			<string>1207.4</string>
+		</array>
+		<array>
+			<string>2015-03-03 19:00</string>
+			<string>1207.88</string>
+			<string>1208.59</string>
+			<string>1208.69</string>
+			<string>1207.4</string>
+		</array>
+		<array>
+			<string>2015-03-03 20:00</string>
+			<string>1208.56</string>
+			<string>1210.66</string>
+			<string>1211.33</string>
+			<string>1208.55</string>
+		</array>
+		<array>
+			<string>2015-03-03 21:00</string>
+			<string>1210.66</string>
+			<string>1206.05</string>
+			<string>1211.19</string>
+			<string>1205.15</string>
+		</array>
+		<array>
+			<string>2015-03-03 22:00</string>
+			<string>1206.05</string>
+			<string>1213.88</string>
+			<string>1214.46</string>
+			<string>1205.57</string>
+		</array>
+		<array>
+			<string>2015-03-03 23:00</string>
+			<string>1213.9</string>
+			<string>1203.36</string>
+			<string>1214.47</string>
+			<string>1201.5</string>
+		</array>
+		<array>
+			<string>2015-03-04 00:00</string>
+			<string>1203.3</string>
+			<string>1203.76</string>
+			<string>1204.96</string>
+			<string>1201.88</string>
+		</array>
+		<array>
+			<string>2015-03-04 01:00</string>
+			<string>1203.76</string>
+			<string>1204.61</string>
+			<string>1205.37</string>
+			<string>1203.27</string>
+		</array>
+		<array>
+			<string>2015-03-04 02:00</string>
+			<string>1204.61</string>
+			<string>1203.33</string>
+			<string>1206.01</string>
+			<string>1203.25</string>
+		</array>
+		<array>
+			<string>2015-03-04 03:00</string>
+			<string>1203.33</string>
+			<string>1202.74</string>
+			<string>1204.23</string>
+			<string>1202.46</string>
+		</array>
+		<array>
+			<string>2015-03-04 04:00</string>
+			<string>1202.74</string>
+			<string>1203.22</string>
+			<string>1203.94</string>
+			<string>1201.6</string>
+		</array>
+		<array>
+			<string>2015-03-04 05:00</string>
+			<string>1203.22</string>
+			<string>1203.41</string>
+			<string>1203.98</string>
+			<string>1202.43</string>
+		</array>
+		<array>
+			<string>2015-03-04 06:00</string>
+			<string>1203.35</string>
+			<string>1204.25</string>
+			<string>1204.45</string>
+			<string>1203.26</string>
+		</array>
+		<array>
+			<string>2015-03-04 07:00</string>
+			<string>1203.6</string>
+			<string>1204.64</string>
+			<string>1205.54</string>
+			<string>1203.41</string>
+		</array>
+		<array>
+			<string>2015-03-04 08:00</string>
+			<string>1204.64</string>
+			<string>1204.29</string>
+			<string>1205.79</string>
+			<string>1203.95</string>
+		</array>
+		<array>
+			<string>2015-03-04 09:00</string>
+			<string>1204.29</string>
+			<string>1206.45</string>
+			<string>1207.09</string>
+			<string>1204.2</string>
+		</array>
+		<array>
+			<string>2015-03-04 10:00</string>
+			<string>1206.38</string>
+			<string>1206.89</string>
+			<string>1207.52</string>
+			<string>1205.85</string>
+		</array>
+		<array>
+			<string>2015-03-04 11:00</string>
+			<string>1206.7</string>
+			<string>1206.53</string>
+			<string>1207.47</string>
+			<string>1206.3</string>
+		</array>
+		<array>
+			<string>2015-03-04 12:00</string>
+			<string>1206.53</string>
+			<string>1207.71</string>
+			<string>1208.37</string>
+			<string>1205.35</string>
+		</array>
+		<array>
+			<string>2015-03-04 13:00</string>
+			<string>1207.71</string>
+			<string>1208.19</string>
+			<string>1208.94</string>
+			<string>1207.5</string>
+		</array>
+		<array>
+			<string>2015-03-04 14:00</string>
+			<string>1208.19</string>
+			<string>1206.9</string>
+			<string>1208.67</string>
+			<string>1206.65</string>
+		</array>
+		<array>
+			<string>2015-03-04 15:00</string>
+			<string>1207.01</string>
+			<string>1205.9</string>
+			<string>1207.25</string>
+			<string>1205.75</string>
+		</array>
+	</array>
+</dict>
+</plist>
